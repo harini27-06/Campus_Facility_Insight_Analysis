@@ -1,0 +1,13 @@
+facility_id,facility,type,capacity,block
+F001,Lecture Hall A,Classroom,120,Block A
+F002,Lecture Hall B,Classroom,90,Block A
+F003,Smart Classroom 1,Classroom,60,Block B
+F004,Computer Lab 1,Laboratory,50,Block C
+F005,Computer Lab 2,Laboratory,45,Block C
+F006,Electronics Lab,Laboratory,40,Block D
+F007,Central Library,Library,180,Block E
+F008,Digital Library,Library,70,Block E
+F009,Seminar Hall,Seminar Hall,200,Block F
+F010,Cafeteria,Common Area,150,Block G
+F011,Auditorium,Auditorium,300,Block F
+F012,Discussion Room,Study Room,20,Block E

@@ -1,0 +1,2338 @@
+booking_id,facility,date,start,end,purpose
+B000001,Lecture Hall A,2026-01-05,17:00,19:00,Workshop
+B000002,Lecture Hall A,2026-01-05,11:00,12:00,Lecture
+B000003,Lecture Hall A,2026-01-05,15:00,16:00,Lecture
+B000004,Lecture Hall A,2026-01-05,08:00,10:00,Workshop
+B000005,Lecture Hall B,2026-01-05,08:00,09:00,Tutorial
+B000006,Lecture Hall B,2026-01-05,17:00,18:00,Lecture
+B000007,Lecture Hall B,2026-01-05,09:00,10:00,Lecture
+B000008,Lecture Hall B,2026-01-05,14:00,15:00,Lecture
+B000009,Lecture Hall B,2026-01-05,10:00,12:00,Workshop
+B000010,Smart Classroom 1,2026-01-05,09:00,10:00,Lecture
+B000011,Smart Classroom 1,2026-01-05,14:00,16:00,Workshop
+B000012,Computer Lab 1,2026-01-05,14:00,15:00,Project Work
+B000013,Computer Lab 2,2026-01-05,08:00,09:00,Project Work
+B000014,Computer Lab 2,2026-01-05,15:00,16:00,Practical
+B000015,Computer Lab 2,2026-01-05,10:00,12:00,Project Work
+B000016,Electronics Lab,2026-01-05,08:00,09:00,Lab Session
+B000017,Electronics Lab,2026-01-05,09:00,10:00,Practical
+B000018,Electronics Lab,2026-01-05,11:00,12:00,Practical
+B000019,Central Library,2026-01-05,17:00,19:00,Study
+B000020,Central Library,2026-01-05,17:00,19:00,Study
+B000021,Digital Library,2026-01-05,10:00,12:00,Study
+B000022,Digital Library,2026-01-05,14:00,16:00,Reading
+B000023,Digital Library,2026-01-05,13:00,15:00,Reading
+B000024,Digital Library,2026-01-05,08:00,09:00,Study
+B000025,Cafeteria,2026-01-05,13:00,14:00,Club Meeting
+B000026,Cafeteria,2026-01-05,15:00,16:00,Student Activity
+B000027,Cafeteria,2026-01-05,16:00,18:00,Club Meeting
+B000028,Cafeteria,2026-01-05,10:00,12:00,Club Meeting
+B000029,Auditorium,2026-01-05,09:00,11:00,Cultural Program
+B000030,Discussion Room,2026-01-05,14:00,15:00,Discussion
+B000031,Discussion Room,2026-01-05,08:00,10:00,Project Work
+B000032,Lecture Hall A,2026-01-06,16:00,17:00,Lecture
+B000033,Lecture Hall A,2026-01-06,17:00,19:00,Tutorial
+B000034,Lecture Hall A,2026-01-06,16:00,17:00,Workshop
+B000035,Lecture Hall A,2026-01-06,14:00,15:00,Tutorial
+B000036,Lecture Hall A,2026-01-06,10:00,13:00,Lecture
+B000037,Lecture Hall B,2026-01-06,13:00,15:00,Lecture
+B000038,Lecture Hall B,2026-01-06,14:00,17:00,Workshop
+B000039,Computer Lab 1,2026-01-06,14:00,15:00,Lab Session
+B000040,Computer Lab 2,2026-01-06,14:00,15:00,Lab Session
+B000041,Computer Lab 2,2026-01-06,11:00,12:00,Lab Session
+B000042,Computer  Lab  2,2026-01-06,16:00,17:00,Practical
+B000043,Electronics Lab,2026-01-06,09:00,10:00,Practical
+B000044,Electronics Lab,2026-01-06,16:00,18:00,Lab Session
+B000045,Central Library,2026-01-06,15:00,17:00,Study
+B000046,Digital Library,2026-01-06,10:00,11:00,Study
+B000047,Digital Library,2026-01-06,09:00,10:00,Group Study
+B000048,Digital Library,2026-01-06,15:00,16:00,Study
+B000049,Digital Library,2026-01-06,09:00,10:00,Group Study
+B000050,Digital Library,2026-01-06,08:00,09:00,Group Study
+B000051,Digital Library,2026-01-06,13:00,15:00,Reading
+B000052,Digital Library,2026-01-06,12:00,14:00,Group Study
+B000053,Digital Library,2026-01-06,09:00,10:00,Study
+B000054,Discussion Room,2026-01-06,15:00,16:00,Discussion
+B000055,Lecture Hall A,2026-01-07,12:00,14:00,Tutorial
+B000056,Lecture Hall A,2026-01-07,13:00,14:00,Workshop
+B000057,Lecture Hall A,2026-01-07,11:00,12:00,Lecture
+B000058,Lecture Hall A,2026-01-07,10:00,11:00,Tutorial
+B000059,Lecture Hall A,2026-01-07,16:00,19:00,Lecture
+B000060,Lecture Hall A,2026-01-07,12:00,14:00,Workshop
+B000061,Lecture Hall A,2026-01-07,12:00,14:00,Tutorial
+B000062,Lecture Hall A,2026-01-07,10:00,12:00,Workshop
+B000063,Lecture Hall B,2026-01-07,16:00,17:00,Workshop
+B000064,Lecture Hall B,2026-01-07,13:00,15:00,Tutorial
+B000065,Lecture Hall B,2026-01-07,10:00,12:00,Workshop
+B000066,Smart Classroom 1,2026-01-07,12:00,14:00,Lecture
+B000067,Smart Classroom 1,2026-01-07,13:00,16:00,Workshop
+B000068,Smart Classroom 1,2026-01-07,09:00,11:00,Lecture
+B000069,Computer Lab 1,2026-01-07,11:00,12:00,Practical
+B000070,Computer Lab 1,2026-01-07,16:00,17:00,Project Work
+B000071,Computer Lab 1,2026-01-07,13:00,16:00,Practical
+B000072,Computer Lab 1,2026-01-07,11:00,14:00,Lab Session
+B000073,Computer  Lab  2,2026-01-07,09:00,11:00,Practical
+B000074,Computer Lab 2,2026-01-07,11:00,13:00,Practical
+B000075,Electronics Lab,2026-01-07,17:00,19:00,Practical
+B000076,Electronics Lab,2026-01-07,09:00,12:00,Lab Session
+B000077,Electronics Lab,2026-01-07,09:00,11:00,Lab Session
+B000078,Electronics Lab,2026-01-07,09:00,11:00,Lab Session
+B000079,Central Library,2026-01-07,08:00,10:00,Reading
+B000080,Central Library,2026-01-07,15:00,16:00,Group Study
+B000081,Digital Library,2026-01-07,09:00,10:00,Study
+B000082,Digital Library,2026-01-07,15:00,16:00,Group Study
+B000083,Digital Library,2026-01-07,10:00,12:00,Group Study
+B000084,Digital Library,2026-01-07,08:00,10:00,Study
+B000085,Seminar Hall,2026-01-07,09:00,10:00,Workshop
+B000086,Cafeteria,2026-01-07,16:00,17:00,Dining
+B000087,Cafeteria,2026-01-07,13:00,16:00,Club Meeting
+B000088,Cafeteria,2026-01-07,11:00,12:00,Club Meeting
+B000089,Discussion Room,2026-01-07,13:00,15:00,Discussion
+B000090,Lecture Hall A,2026-01-08,11:00,12:00,Lecture
+B000091,Lecture Hall A,2026-01-08,13:00,15:00,Workshop
+B000092,Lecture Hall A,2026-01-08,10:00,12:00,Workshop
+B000093,Lecture Hall B,2026-01-08,15:00,16:00,Lecture
+B000094,Lecture Hall B,2026-01-08,09:00,10:00,Workshop
+B000095,Lecture Hall B,2026-01-08,10:00,11:00,Workshop
+B000096,Lecture Hall B,2026-01-08,14:00,15:00,Lecture
+B000097,Lecture Hall B,2026-01-08,11:00,12:00,Lecture
+B000098,Lecture Hall B,2026-01-08,11:00,14:00,Tutorial
+B000099,Lecture Hall B,2026-01-08,10:00,12:00,Tutorial
+B000100,Smart Classroom 1,2026-01-08,10:00,12:00,Tutorial
+B000101,Computer Lab 1,2026-01-08,11:00,12:00,Project Work
+B000102,Computer Lab 1,2026-01-08,11:00,12:00,Project Work
+B000103,Computer Lab 1,2026-01-08,16:00,17:00,Project Work
+B000104,Computer Lab 1,2026-01-08,12:00,14:00,Practical
+B000105,Computer Lab 1,2026-01-08,10:00,12:00,Project Work
+B000106,Computer Lab 2,2026-01-08,11:00,13:00,Lab Session
+B000107,Computer Lab 2,2026-01-08,12:00,14:00,Practical
+B000108,Electronics Lab,2026-01-08,09:00,10:00,Practical
+B000109,Electronics  Lab,2026-01-08,09:00,10:00,Practical
+B000110,Electronics Lab,2026-01-08,16:00,17:00,Lab Session
+B000111,Electronics Lab,2026-01-08,08:00,09:00,Lab Session
+B000112,Electronics Lab,2026-01-08,17:00,19:00,Lab Session
+B000113,Central Library,2026-01-08,17:00,19:00,Study
+B000114,Central Library,2026-01-08,14:00,15:00,Study
+B000115,Central Library,2026-01-08,14:00,15:00,Reading
+B000116,Central Library,2026-01-08,17:00,18:00,Reading
+B000117,Central Library,2026-01-08,13:00,15:00,Group Study
+B000118,Central Library,2026-01-08,08:00,09:00,Study
+B000119,Central Library,2026-01-08,14:00,16:00,Reading
+B000120,Central Library,2026-01-08,14:00,16:00,Group Study
+B000121,CENTRAL LIBRARY,2026-01-08,13:00,15:00,Group Study
+B000122,Digital Library,2026-01-08,16:00,18:00,Reading
+B000123,Digital Library,2026-01-08,11:00,13:00,Group Study
+B000124,Digital Library,2026-01-08,11:00,12:00,Study
+B000125,Cafeteria,2026-01-08,09:00,11:00,Dining
+B000126,Cafeteria,2026-01-08,13:00,14:00,Student Activity
+B000127,Cafeteria,2026-01-08,09:00,10:00,Student Activity
+B000128,Cafeteria,2026-01-08,08:00,09:00,Club Meeting
+B000129,Cafeteria,2026-01-08,11:00,14:00,Club Meeting
+B000130,Discussion Room,2026-01-08,16:00,18:00,Discussion
+B000131,Discussion Room,2026-01-08,13:00,14:00,Project Work
+B000132,Lecture Hall A,2026-01-09,15:00,17:00,Workshop
+B000133,Lecture Hall A,2026-01-09,17:00,19:00,Workshop
+B000134,Lecture Hall A,2026-01-09,15:00,16:00,Tutorial
+B000135,Lecture Hall B,2026-01-09,16:00,17:00,Workshop
+B000136,Lecture Hall B,2026-01-09,08:00,09:00,Tutorial
+B000137,Lecture Hall B,2026-01-09,08:00,09:00,Tutorial
+B000138,Lecture Hall B,2026-01-09,14:00,15:00,Lecture
+B000139,SMART CLASSROOM 1,2026-01-09,09:00,11:00,Lecture
+B000140,Computer Lab 1,2026-01-09,15:00,17:00,Project Work
+B000141,Computer Lab 1,2026-01-09,10:00,11:00,Lab Session
+B000142,Computer Lab 1,2026-01-09,10:00,13:00,Practical
+B000143,COMPUTER LAB 2,2026-01-09,09:00,12:00,Practical
+B000144,Computer Lab 2,2026-01-09,09:00,10:00,Practical
+B000145,Electronics Lab,2026-01-09,08:00,10:00,Practical
+B000146,Electronics Lab,2026-01-09,14:00,16:00,Project Work
+B000147,Electronics Lab,2026-01-09,11:00,13:00,Practical
+B000148,Central  Library,2026-01-09,08:00,09:00,Reading
+B000149,Central Library,2026-01-09,09:00,11:00,Group Study
+B000150,Central Library,2026-01-09,10:00,12:00,Reading
+B000151,Central Library,2026-01-09,09:00,11:00,Study
+B000152,CENTRAL LIBRARY,2026-01-09,17:00,18:00,Group Study
+B000153,Central Library,2026-01-09,17:00,19:00,Group Study
+B000154,Digital Library,2026-01-09,13:00,14:00,Reading
+B000155,Digital Library,2026-01-09,08:00,10:00,Group Study
+B000156,Digital Library,2026-01-09,10:00,12:00,Reading
+B000157,Digital Library,2026-01-09,14:00,16:00,Group Study
+B000158,Seminar Hall,2026-01-09,12:00,13:00,Workshop
+B000159,Cafeteria,2026-01-09,16:00,17:00,Student Activity
+B000160,Auditorium,2026-01-09,09:00,11:00,Cultural Program
+B000161,Discussion Room,2026-01-09,12:00,14:00,Discussion
+B000162,Discussion Room,2026-01-09,13:00,14:00,Group Study
+B000163,Discussion Room,2026-01-09,15:00,16:00,Discussion
+B000164,Lecture Hall B,2026-01-12,13:00,15:00,Workshop
+B000165,Lecture Hall B,2026-01-12,16:00,17:00,Tutorial
+B000166,Lecture Hall B,2026-01-12,11:00,12:00,Workshop
+B000167,Lecture Hall B,2026-01-12,10:00,13:00,Tutorial
+B000168,Lecture Hall B,2026-01-12,14:00,16:00,Lecture
+B000169,Smart Classroom 1,2026-01-12,08:00,09:00,Tutorial
+B000170,Smart Classroom 1,2026-01-12,12:00,13:00,Tutorial
+B000171,Smart Classroom 1,2026-01-12,14:00,16:00,Lecture
+B000172,Computer Lab 1,2026-01-12,09:00,10:00,Lab Session
+B000173,Computer Lab 1,2026-01-12,15:00,17:00,Practical
+B000174,Computer Lab 2,2026-01-12,15:00,17:00,Project Work
+B000175,Electronics Lab,2026-01-12,16:00,17:00,Project Work
+B000176,Electronics Lab,2026-01-12,10:00,12:00,Lab Session
+B000177,Electronics Lab,2026-01-12,11:00,12:00,Project Work
+B000178,Electronics Lab,2026-01-12,15:00,16:00,Practical
+B000179,Central Library,2026-01-12,12:00,14:00,Reading
+B000180,Central Library,2026-01-12,09:00,12:00,Study
+B000181,Central Library,2026-01-12,09:00,11:00,Reading
+B000182,Central Library,2026-01-12,08:00,09:00,Group Study
+B000183,Central Library,2026-01-12,13:00,14:00,Reading
+B000184,Central Library,2026-01-12,09:00,12:00,Reading
+B000185,Digital Library,2026-01-12,11:00,13:00,Reading
+B000186,Digital Library,2026-01-12,15:00,16:00,Study
+B000187,Digital Library,2026-01-12,13:00,14:00,Study
+B000188,Digital Library,2026-01-12,08:00,09:00,Group Study
+B000189,Seminar Hall,2026-01-12,16:00,17:00,Seminar
+B000190,Cafeteria,2026-01-12,14:00,16:00,Club Meeting
+B000191,Cafeteria,2026-01-12,16:00,18:00,Club Meeting
+B000192,Cafeteria,2026-01-12,13:00,14:00,Student Activity
+B000193,Cafeteria,2026-01-12,14:00,15:00,Club Meeting
+B000194,Cafeteria,2026-01-12,12:00,14:00,Dining
+B000195,Discussion Room,2026-01-12,09:00,11:00,Project Work
+B000196,Discussion Room,2026-01-12,08:00,09:00,Group Study
+B000197,Lecture Hall A,2026-01-13,10:00,11:00,Lecture
+B000198,Lecture Hall A,2026-01-13,16:00,17:00,Tutorial
+B000199,Lecture Hall A,2026-01-13,16:00,18:00,Tutorial
+B000200,Lecture Hall B,2026-01-13,11:00,13:00,Lecture
+B000201,Lecture Hall B,2026-01-13,16:00,18:00,Lecture
+B000202,Lecture Hall B,2026-01-13,12:00,14:00,Lecture
+B000203,Lecture Hall B,2026-01-13,16:00,19:00,Workshop
+B000204,Smart Classroom 1,2026-01-13,13:00,14:00,Lecture
+B000205,Smart Classroom 1,2026-01-13,11:00,12:00,Lecture
+B000206,Smart Classroom 1,2026-01-13,09:00,10:00,Workshop
+B000207,Smart Classroom 1,2026-01-13,15:00,16:00,Tutorial
+B000208,Smart Classroom 1,2026-01-13,11:00,14:00,Lecture
+B000209,Computer Lab 1,2026-01-13,09:00,11:00,Project Work
+B000210,Computer Lab 1,2026-01-13,14:00,15:00,Practical
+B000211,Computer Lab 1,2026-01-13,11:00,13:00,Practical
+B000212,Computer Lab 1,2026-01-13,13:00,16:00,Project Work
+B000213,Computer Lab 2,2026-01-13,17:00,18:00,Lab Session
+B000214,Central Library,2026-01-13,16:00,17:00,Reading
+B000215,Central Library,2026-01-13,09:00,11:00,Study
+B000216,Central Library,2026-01-13,08:00,09:00,Group Study
+B000217,Central Library,2026-01-13,13:00,15:00,Reading
+B000218,Central Library,2026-01-13,15:00,17:00,Reading
+B000219,Central Library,2026-01-13,09:00,10:00,Group Study
+B000220,Central Library,2026-01-13,14:00,15:00,Study
+B000221,Central Library,2026-01-13,11:00,12:00,Reading
+B000222,Central Library,2026-01-13,09:00,10:00,Reading
+B000223,Digital Library,2026-01-13,15:00,18:00,Reading
+B000224,Digital Library,2026-01-13,10:00,12:00,Study
+B000225,Digital Library,2026-01-13,13:00,15:00,Reading
+B000226,Digital Library,2026-01-13,08:00,09:00,Group Study
+B000227,Digital Library,2026-01-13,10:00,11:00,Group Study
+B000228,Digital Library,2026-01-13,13:00,14:00,Reading
+B000229,Cafeteria,2026-01-13,08:00,09:00,Club Meeting
+B000230,Cafeteria,2026-01-13,09:00,11:00,Dining
+B000231,Auditorium,2026-01-13,10:00,12:00,Presentation
+B000232,Discussion Room,2026-01-13,10:00,11:00,Discussion
+B000233,Lecture Hall A,2026-01-14,11:00,12:00,Tutorial
+B000234,Lecture Hall A,2026-01-14,16:00,19:00,Lecture
+B000235,Lecture Hall A,2026-01-14,09:00,11:00,Lecture
+B000236,Lecture Hall B,2026-01-14,11:00,12:00,Lecture
+B000237,Lecture Hall B,2026-01-14,15:00,16:00,Lecture
+B000238,Lecture Hall B,2026-01-14,12:00,15:00,Tutorial
+B000239,Lecture Hall B,2026-01-14,13:00,14:00,Lecture
+B000240,Smart Classroom 1,2026-01-14,11:00,12:00,Workshop
+B000241,Smart Classroom 1,2026-01-14,16:00,17:00,Workshop
+B000242,Smart Classroom 1,2026-01-14,13:00,14:00,Lecture
+B000243,Computer Lab 1,2026-01-14,09:00,10:00,Project Work
+B000244,Computer Lab 1,2026-01-14,10:00,12:00,Practical
+B000245,Computer Lab 2,2026-01-14,16:00,17:00,Practical
+B000246,Computer Lab 2,2026-01-14,08:00,09:00,Practical
+B000247,Computer Lab 2,2026-01-14,08:00,10:00,Project Work
+B000248,Computer Lab 2,2026-01-14,12:00,13:00,Project Work
+B000249,Electronics Lab,2026-01-14,09:00,11:00,Practical
+B000250,Electronics Lab,2026-01-14,17:00,19:00,Practical
+B000251,Electronics Lab,2026-01-14,13:00,15:00,Practical
+B000252,Central Library,2026-01-14,15:00,17:00,Study
+B000253,Central Library,2026-01-14,15:00,16:00,Group Study
+B000254,Central Library,2026-01-14,14:00,15:00,Study
+B000255,Central Library,2026-01-14,13:00,14:00,Reading
+B000256,Central Library,2026-01-14,10:00,11:00,Study
+B000257,Central Library,2026-01-14,09:00,12:00,Group Study
+B000258,Central Library,2026-01-14,17:00,18:00,Reading
+B000259,Central Library,2026-01-14,13:00,14:00,Group Study
+B000260,Digital Library,2026-01-14,16:00,17:00,Study
+B000261,Digital Library,2026-01-14,09:00,10:00,Reading
+B000262,Digital Library,2026-01-14,12:00,15:00,Study
+B000263,Digital Library,2026-01-14,11:00,12:00,Reading
+B000264,Digital Library,2026-01-14,09:00,10:00,Reading
+B000265,Seminar Hall,2026-01-14,16:00,17:00,Workshop
+B000266,Seminar Hall,2026-01-14,13:00,15:00,Guest Lecture
+B000267,Seminar Hall,2026-01-14,12:00,13:00,Seminar
+B000268,Seminar Hall,2026-01-14,11:00,12:00,Guest Lecture
+B000269,Cafeteria,2026-01-14,09:00,10:00,Dining
+B000270,Cafeteria,2026-01-14,12:00,15:00,Student Activity
+B000271,Cafeteria,2026-01-14,08:00,09:00,Student Activity
+B000272,Discussion Room,2026-01-14,15:00,17:00,Group Study
+B000273,Discussion Room,2026-01-14,11:00,12:00,Discussion
+B000274,Discussion Room,2026-01-14,16:00,17:00,Project Work
+B000275,Lecture Hall A,2026-01-15,11:00,12:00,Tutorial
+B000276,Lecture Hall A,2026-01-15,16:00,17:00,Tutorial
+B000277,Lecture Hall A,2026-01-15,12:00,13:00,Tutorial
+B000278,Lecture Hall B,2026-01-15,13:00,14:00,Tutorial
+B000279,Lecture Hall B,2026-01-15,17:00,18:00,Workshop
+B000280,Lecture Hall B,2026-01-15,08:00,10:00,Lecture
+B000281,Smart Classroom 1,2026-01-15,17:00,18:00,Workshop
+B000282,Smart Classroom 1,2026-01-15,12:00,14:00,Workshop
+B000283,Smart Classroom 1,2026-01-15,14:00,15:00,Workshop
+B000284,Smart Classroom 1,2026-01-15,14:00,16:00,Lecture
+B000285,Smart Classroom 1,2026-01-15,16:00,17:00,Lecture
+B000286,Smart Classroom 1,2026-01-15,12:00,14:00,Tutorial
+B000287,Computer Lab 1,2026-01-15,12:00,13:00,Project Work
+B000288,Computer Lab 2,2026-01-15,14:00,15:00,Lab Session
+B000289,Electronics Lab,2026-01-15,11:00,12:00,Practical
+B000290,Electronics Lab,2026-01-15,10:00,12:00,Practical
+B000291,Electronics Lab,2026-01-15,09:00,10:00,Practical
+B000292,Electronics Lab,2026-01-15,10:00,12:00,Practical
+B000293,Central Library,2026-01-15,12:00,13:00,Reading
+B000294,Central Library,2026-01-15,13:00,15:00,Group Study
+B000295,Central Library,2026-01-15,15:00,17:00,Study
+B000296,Central Library,2026-01-15,16:00,17:00,Group Study
+B000297,Central Library,2026-01-15,13:00,16:00,Study
+B000298,Central Library,2026-01-15,10:00,11:00,Group Study
+B000299,Central Library,2026-01-15,16:00,17:00,Group Study
+B000300,Central Library,2026-01-15,09:00,10:00,Study
+B000301,Central Library,2026-01-15,16:00,17:00,Study
+B000302,Digital Library,2026-01-15,10:00,12:00,Group Study
+B000303,DIGITAL LIBRARY,2026-01-15,15:00,16:00,Reading
+B000304,Digital Library,2026-01-15,13:00,16:00,Study
+B000305,Digital Library,2026-01-15,12:00,14:00,Study
+B000306,Digital Library,2026-01-15,14:00,15:00,Reading
+B000307,Cafeteria,2026-01-15,16:00,17:00,Club Meeting
+B000308,Cafeteria,2026-01-15,09:00,10:00,Student Activity
+B000309,Cafeteria,2026-01-15,12:00,13:00,Student Activity
+B000310,Cafeteria,2026-01-15,15:00,16:00,Student Activity
+B000311,Cafeteria,2026-01-15,09:00,12:00,Student Activity
+B000312,Cafeteria,2026-01-15,15:00,16:00,Dining
+B000313,Discussion Room,2026-01-15,15:00,16:00,Project Work
+B000314,Discussion Room,2026-01-15,10:00,12:00,Project Work
+B000315,Discussion Room,2026-01-15,15:00,18:00,Group Study
+B000316,Lecture Hall A,2026-01-16,10:00,11:00,Tutorial
+B000317,Lecture Hall A,2026-01-16,11:00,13:00,Lecture
+B000318,Lecture Hall A,2026-01-16,14:00,16:00,Lecture
+B000319,Lecture Hall A,2026-01-16,15:00,18:00,Tutorial
+B000320,Lecture Hall A,2026-01-16,17:00,18:00,Lecture
+B000321,Lecture Hall A,2026-01-16,17:00,18:00,Tutorial
+B000322,Lecture Hall B,2026-01-16,14:00,15:00,Tutorial
+B000323,Lecture Hall B,2026-01-16,15:00,16:00,Tutorial
+B000324,Lecture Hall B,2026-01-16,13:00,14:00,Tutorial
+B000325,Lecture Hall B,2026-01-16,15:00,16:00,Tutorial
+B000326,Lecture Hall B,2026-01-16,08:00,10:00,Workshop
+B000327,Smart Classroom 1,2026-01-16,10:00,11:00,Workshop
+B000328,Smart Classroom 1,2026-01-16,13:00,15:00,Workshop
+B000329,Smart Classroom 1,2026-01-16,11:00,13:00,Workshop
+B000330,Smart Classroom 1,2026-01-16,15:00,16:00,Workshop
+B000331,Smart Classroom 1,2026-01-16,17:00,19:00,Tutorial
+B000332,Computer Lab 1,2026-01-16,09:00,10:00,Practical
+B000333,Electronics Lab,2026-01-16,14:00,16:00,Practical
+B000334,Electronics Lab,2026-01-16,12:00,14:00,Lab Session
+B000335,Central Library,2026-01-16,10:00,12:00,Study
+B000336,Central Library,2026-01-16,15:00,16:00,Study
+B000337,Central Library,2026-01-16,10:00,12:00,Reading
+B000338,Central Library,2026-01-16,13:00,14:00,Reading
+B000339,Digital Library,2026-01-16,11:00,12:00,Reading
+B000340,Digital Library,2026-01-16,11:00,13:00,Study
+B000341,Digital Library,2026-01-16,13:00,15:00,Reading
+B000342,Digital Library,2026-01-16,13:00,16:00,Group Study
+B000343,Digital Library,2026-01-16,13:00,15:00,Study
+B000344,Digital Library,2026-01-16,12:00,15:00,Study
+B000345,Seminar  Hall,2026-01-16,09:00,10:00,Workshop
+B000346,Cafeteria,2026-01-16,13:00,14:00,Dining
+B000347,Cafeteria,2026-01-16,13:00,14:00,Club Meeting
+B000348,Cafeteria,2026-01-16,14:00,15:00,Club Meeting
+B000349,Discussion Room,2026-01-16,10:00,11:00,Group Study
+B000350,Discussion Room,2026-01-16,17:00,19:00,Group Study
+B000351,Discussion Room,2026-01-16,16:00,17:00,Discussion
+B000352,Lecture Hall A,2026-01-19,10:00,12:00,Lecture
+B000353,Lecture Hall A,2026-01-19,13:00,14:00,Lecture
+B000354,Lecture Hall A,2026-01-19,10:00,11:00,Lecture
+B000355,Lecture Hall A,2026-01-19,11:00,12:00,Workshop
+B000356,Lecture Hall A,2026-01-19,08:00,09:00,Lecture
+B000357,Lecture Hall A,2026-01-19,10:00,11:00,Workshop
+B000358,Smart  Classroom  1,2026-01-19,08:00,10:00,Lecture
+B000359,Smart Classroom 1,2026-01-19,09:00,11:00,Tutorial
+B000360,Smart Classroom 1,2026-01-19,10:00,12:00,Lecture
+B000361,Smart Classroom 1,2026-01-19,16:00,17:00,Workshop
+B000362,COMPUTER LAB 1,2026-01-19,11:00,13:00,Practical
+B000363,Computer Lab 1,2026-01-19,11:00,13:00,Project Work
+B000364,Computer Lab 2,2026-01-19,12:00,14:00,Project Work
+B000365,Computer Lab 2,2026-01-19,10:00,11:00,Practical
+B000366,ELECTRONICS LAB,2026-01-19,16:00,19:00,Project Work
+B000367,Electronics Lab,2026-01-19,14:00,17:00,Practical
+B000368,Electronics Lab,2026-01-19,13:00,14:00,Lab Session
+B000369,Electronics Lab,2026-01-19,13:00,14:00,Project Work
+B000370,Central Library,2026-01-19,17:00,19:00,Reading
+B000371,Central Library,2026-01-19,10:00,11:00,Reading
+B000372,Central Library,2026-01-19,10:00,12:00,Reading
+B000373,Central Library,2026-01-19,10:00,12:00,Group Study
+B000374,Central Library,2026-01-19,14:00,17:00,Group Study
+B000375,Central Library,2026-01-19,14:00,15:00,Study
+B000376,Digital Library,2026-01-19,16:00,17:00,Reading
+B000377,Digital Library,2026-01-19,14:00,15:00,Reading
+B000378,Digital Library,2026-01-19,11:00,12:00,Group Study
+B000379,Digital Library,2026-01-19,08:00,10:00,Study
+B000380,Digital Library,2026-01-19,09:00,10:00,Group Study
+B000381,Digital Library,2026-01-19,11:00,13:00,Group Study
+B000382,Digital Library,2026-01-19,13:00,14:00,Study
+B000383,Digital Library,2026-01-19,11:00,12:00,Reading
+B000384,Digital Library,2026-01-19,08:00,10:00,Reading
+B000385,Seminar Hall,2026-01-19,17:00,18:00,Guest Lecture
+B000386,Seminar  Hall,2026-01-19,09:00,10:00,Guest Lecture
+B000387,Cafeteria,2026-01-19,09:00,10:00,Dining
+B000388,Cafeteria,2026-01-19,12:00,13:00,Student Activity
+B000389,Cafeteria,2026-01-19,12:00,15:00,Student Activity
+B000390,Cafeteria,2026-01-19,15:00,16:00,Dining
+B000391,Cafeteria,2026-01-19,11:00,13:00,Club Meeting
+B000392,Lecture Hall A,2026-01-20,14:00,15:00,Workshop
+B000393,Lecture Hall A,2026-01-20,14:00,15:00,Lecture
+B000394,Lecture Hall A,2026-01-20,13:00,14:00,Lecture
+B000395,Lecture Hall B,2026-01-20,09:00,10:00,Workshop
+B000396,Smart Classroom 1,2026-01-20,12:00,14:00,Lecture
+B000397,Smart Classroom 1,2026-01-20,08:00,11:00,Workshop
+B000398,Smart Classroom 1,2026-01-20,09:00,10:00,Tutorial
+B000399,Smart Classroom 1,2026-01-20,10:00,11:00,Lecture
+B000400,Smart Classroom 1,2026-01-20,10:00,11:00,Tutorial
+B000401,Smart Classroom 1,2026-01-20,10:00,12:00,Lecture
+B000402,Smart Classroom 1,2026-01-20,12:00,14:00,Lecture
+B000403,Computer Lab 1,2026-01-20,16:00,17:00,Lab Session
+B000404,Computer Lab 1,2026-01-20,09:00,11:00,Lab Session
+B000405,Computer Lab 1,2026-01-20,15:00,17:00,Practical
+B000406,Computer Lab 1,2026-01-20,10:00,11:00,Lab Session
+B000407,Computer Lab 1,2026-01-20,10:00,11:00,Project Work
+B000408,Computer Lab 1,2026-01-20,10:00,12:00,Project Work
+B000409,Computer Lab 2,2026-01-20,12:00,13:00,Lab Session
+B000410,Computer Lab 2,2026-01-20,11:00,13:00,Project Work
+B000411,Electronics Lab,2026-01-20,09:00,11:00,Project Work
+B000412,Electronics Lab,2026-01-20,16:00,17:00,Project Work
+B000413,Electronics Lab,2026-01-20,08:00,10:00,Practical
+B000414,Electronics Lab,2026-01-20,12:00,13:00,Project Work
+B000415,Central Library,2026-01-20,09:00,12:00,Reading
+B000416,Central Library,2026-01-20,12:00,15:00,Group Study
+B000417,Central Library,2026-01-20,16:00,19:00,Reading
+B000418,Central Library,2026-01-20,11:00,12:00,Study
+B000419,Central Library,2026-01-20,10:00,12:00,Study
+B000420,Central Library,2026-01-20,13:00,14:00,Group Study
+B000421,Central Library,2026-01-20,16:00,18:00,Study
+B000422,Digital Library,2026-01-20,11:00,12:00,Study
+B000423,Digital Library,2026-01-20,10:00,12:00,Reading
+B000424,Digital Library,2026-01-20,12:00,14:00,Reading
+B000425,Digital Library,2026-01-20,17:00,19:00,Study
+B000426,Cafeteria,2026-01-20,13:00,14:00,Dining
+B000427,Cafeteria,2026-01-20,14:00,16:00,Dining
+B000428,Cafeteria,2026-01-20,14:00,16:00,Club Meeting
+B000429,Cafeteria,2026-01-20,13:00,14:00,Student Activity
+B000430,Discussion Room,2026-01-20,14:00,15:00,Discussion
+B000431,Lecture Hall A,2026-01-21,10:00,11:00,Tutorial
+B000432,Lecture Hall A,2026-01-21,08:00,09:00,Lecture
+B000433,Lecture Hall A,2026-01-21,14:00,15:00,Workshop
+B000434,Lecture Hall A,2026-01-21,10:00,12:00,Workshop
+B000435,Lecture Hall A,2026-01-21,16:00,19:00,Tutorial
+B000436,Lecture Hall B,2026-01-21,09:00,11:00,Workshop
+B000437,Lecture Hall B,2026-01-21,08:00,09:00,Tutorial
+B000438,Smart Classroom 1,2026-01-21,13:00,14:00,Tutorial
+B000439,Smart Classroom 1,2026-01-21,15:00,16:00,Lecture
+B000440,Smart Classroom 1,2026-01-21,15:00,16:00,Lecture
+B000441,Computer Lab 1,2026-01-21,14:00,15:00,Project Work
+B000442,Computer Lab 2,2026-01-21,08:00,09:00,Lab Session
+B000443,Computer Lab 2,2026-01-21,13:00,14:00,Lab Session
+B000444,Electronics Lab,2026-01-21,08:00,09:00,Practical
+B000445,Electronics Lab,2026-01-21,14:00,15:00,Practical
+B000446,Electronics Lab,2026-01-21,12:00,13:00,Lab Session
+B000447,Central Library,2026-01-21,14:00,16:00,Study
+B000448,Central Library,2026-01-21,08:00,09:00,Reading
+B000449,Central Library,2026-01-21,08:00,10:00,Group Study
+B000450,CENTRAL LIBRARY,2026-01-21,14:00,15:00,Study
+B000451,Central Library,2026-01-21,13:00,16:00,Reading
+B000452,Digital Library,2026-01-21,13:00,14:00,Group Study
+B000453,Digital Library,2026-01-21,14:00,17:00,Reading
+B000454,Digital Library,2026-01-21,12:00,13:00,Reading
+B000455,Digital Library,2026-01-21,08:00,11:00,Group Study
+B000456,Digital Library,2026-01-21,14:00,15:00,Reading
+B000457,Digital Library,2026-01-21,08:00,10:00,Study
+B000458,Digital Library,2026-01-21,15:00,17:00,Study
+B000459,Seminar Hall,2026-01-21,14:00,15:00,Seminar
+B000460,Seminar Hall,2026-01-21,09:00,10:00,Workshop
+B000461,Cafeteria,2026-01-21,11:00,13:00,Student Activity
+B000462,Discussion Room,2026-01-21,09:00,10:00,Discussion
+B000463,Discussion Room,2026-01-21,14:00,15:00,Group Study
+B000464,Discussion Room,2026-01-21,14:00,16:00,Project Work
+B000465,Discussion Room,2026-01-21,10:00,11:00,Discussion
+B000466,Lecture Hall A,2026-01-22,09:00,10:00,Workshop
+B000467,Lecture Hall A,2026-01-22,12:00,13:00,Lecture
+B000468,Lecture Hall B,2026-01-22,13:00,16:00,Tutorial
+B000469,Lecture Hall B,2026-01-22,16:00,18:00,Lecture
+B000470,Lecture Hall B,2026-01-22,10:00,12:00,Lecture
+B000471,Lecture Hall B,2026-01-22,14:00,17:00,Tutorial
+B000472,Smart Classroom 1,2026-01-22,13:00,14:00,Tutorial
+B000473,Smart Classroom 1,2026-01-22,09:00,10:00,Lecture
+B000474,Smart Classroom 1,2026-01-22,10:00,12:00,Tutorial
+B000475,Computer Lab 1,2026-01-22,16:00,18:00,Practical
+B000476,Computer  Lab  1,2026-01-22,13:00,15:00,Project Work
+B000477,Computer Lab 1,2026-01-22,16:00,18:00,Practical
+B000478,Computer Lab 1,2026-01-22,08:00,09:00,Project Work
+B000479,Computer Lab 2,2026-01-22,11:00,14:00,Practical
+B000480,Computer Lab 2,2026-01-22,10:00,12:00,Lab Session
+B000481,Electronics Lab,2026-01-22,10:00,11:00,Project Work
+B000482,Electronics Lab,2026-01-22,14:00,16:00,Lab Session
+B000483,Electronics Lab,2026-01-22,11:00,12:00,Project Work
+B000484,Central Library,2026-01-22,15:00,17:00,Reading
+B000485,Central Library,2026-01-22,15:00,16:00,Study
+B000486,Central  Library,2026-01-22,15:00,16:00,Study
+B000487,Digital Library,2026-01-22,14:00,16:00,Study
+B000488,Digital Library,2026-01-22,10:00,13:00,Study
+B000489,Digital Library,2026-01-22,16:00,19:00,Group Study
+B000490,Digital Library,2026-01-22,11:00,13:00,Study
+B000491,Seminar Hall,2026-01-22,14:00,15:00,Seminar
+B000492,Cafeteria,2026-01-22,15:00,17:00,Club Meeting
+B000493,Cafeteria,2026-01-22,16:00,17:00,Dining
+B000494,Cafeteria,2026-01-22,11:00,13:00,Dining
+B000495,Cafeteria,2026-01-22,10:00,11:00,Club Meeting
+B000496,Discussion Room,2026-01-22,10:00,12:00,Discussion
+B000497,Discussion Room,2026-01-22,14:00,16:00,Group Study
+B000498,Lecture Hall A,2026-01-23,13:00,14:00,Tutorial
+B000499,Lecture Hall A,2026-01-23,11:00,12:00,Lecture
+B000500,Lecture Hall A,2026-01-23,15:00,17:00,Workshop
+B000501,Lecture Hall A,2026-01-23,12:00,14:00,Lecture
+B000502,Lecture Hall A,2026-01-23,12:00,14:00,Tutorial
+B000503,Lecture Hall A,2026-01-23,15:00,17:00,Lecture
+B000504,Lecture Hall A,2026-01-23,15:00,16:00,Tutorial
+B000505,Lecture Hall A,2026-01-23,14:00,15:00,Lecture
+B000506,Lecture Hall A,2026-01-23,12:00,15:00,Lecture
+B000507,Lecture Hall A,2026-01-23,17:00,19:00,Tutorial
+B000508,Lecture Hall A,2026-01-23,08:00,09:00,Tutorial
+B000509,Lecture Hall B,2026-01-23,09:00,11:00,Tutorial
+B000510,Lecture Hall B,2026-01-23,10:00,11:00,Lecture
+B000511,LECTURE HALL B,2026-01-23,12:00,15:00,Lecture
+B000512,Lecture Hall B,2026-01-23,13:00,14:00,Lecture
+B000513,Lecture Hall B,2026-01-23,11:00,12:00,Workshop
+B000514,Lecture  Hall  B,2026-01-23,09:00,10:00,Lecture
+B000515,Smart Classroom 1,2026-01-23,12:00,13:00,Tutorial
+B000516,Smart Classroom 1,2026-01-23,13:00,14:00,Tutorial
+B000517,Smart Classroom 1,2026-01-23,14:00,15:00,Tutorial
+B000518,Computer Lab 1,2026-01-23,10:00,12:00,Practical
+B000519,Computer Lab 1,2026-01-23,16:00,18:00,Lab Session
+B000520,Computer Lab 2,2026-01-23,10:00,11:00,Lab Session
+B000521,Computer Lab 2,2026-01-23,14:00,16:00,Project Work
+B000522,Computer Lab 2,2026-01-23,15:00,17:00,Project Work
+B000523,Computer Lab 2,2026-01-23,11:00,13:00,Lab Session
+B000524,Electronics Lab,2026-01-23,09:00,11:00,Project Work
+B000525,Central Library,2026-01-23,14:00,17:00,Reading
+B000526,Central Library,2026-01-23,13:00,14:00,Group Study
+B000527,Central Library,2026-01-23,17:00,18:00,Study
+B000528,Central Library,2026-01-23,09:00,10:00,Study
+B000529,Central Library,2026-01-23,09:00,10:00,Group Study
+B000530,Central Library,2026-01-23,14:00,15:00,Study
+B000531,Digital Library,2026-01-23,16:00,19:00,Reading
+B000532,Digital Library,2026-01-23,10:00,12:00,Group Study
+B000533,Digital Library,2026-01-23,11:00,12:00,Study
+B000534,Digital Library,2026-01-23,13:00,15:00,Study
+B000535,Digital Library,2026-01-23,08:00,10:00,Reading
+B000536,Digital Library,2026-01-23,10:00,11:00,Group Study
+B000537,Cafeteria,2026-01-23,15:00,16:00,Dining
+B000538,Cafeteria,2026-01-23,14:00,15:00,Club Meeting
+B000539,Cafeteria,2026-01-23,11:00,13:00,Dining
+B000540,LECTURE HALL A,2026-01-26,13:00,14:00,Tutorial
+B000541,Lecture Hall A,2026-01-26,10:00,11:00,Workshop
+B000542,LECTURE HALL A,2026-01-26,11:00,13:00,Workshop
+B000543,Lecture Hall B,2026-01-26,13:00,14:00,Lecture
+B000544,Computer Lab 1,2026-01-26,09:00,12:00,Lab Session
+B000545,Computer Lab 1,2026-01-26,17:00,18:00,Project Work
+B000546,Computer Lab 2,2026-01-26,17:00,18:00,Practical
+B000547,Computer Lab 2,2026-01-26,08:00,11:00,Lab Session
+B000548,Computer Lab 2,2026-01-26,09:00,11:00,Practical
+B000549,Computer Lab 2,2026-01-26,09:00,10:00,Project Work
+B000550,Electronics Lab,2026-01-26,09:00,11:00,Lab Session
+B000551,Electronics Lab,2026-01-26,14:00,16:00,Practical
+B000552,CENTRAL LIBRARY,2026-01-26,09:00,10:00,Reading
+B000553,Central Library,2026-01-26,17:00,18:00,Reading
+B000554,Central Library,2026-01-26,10:00,11:00,Reading
+B000555,Central Library,2026-01-26,16:00,18:00,Reading
+B000556,Central Library,2026-01-26,09:00,12:00,Reading
+B000557,Central Library,2026-01-26,09:00,10:00,Reading
+B000558,Digital Library,2026-01-26,10:00,11:00,Reading
+B000559,Digital Library,2026-01-26,12:00,14:00,Study
+B000560,Digital Library,2026-01-26,12:00,14:00,Group Study
+B000561,Digital Library,2026-01-26,14:00,16:00,Group Study
+B000562,Digital Library,2026-01-26,09:00,11:00,Study
+B000563,Cafeteria,2026-01-26,15:00,16:00,Club Meeting
+B000564,Cafeteria,2026-01-26,12:00,14:00,Dining
+B000565,Cafeteria,2026-01-26,09:00,11:00,Club Meeting
+B000566,Lecture Hall A,2026-01-27,14:00,15:00,Tutorial
+B000567,Lecture Hall A,2026-01-27,14:00,15:00,Workshop
+B000568,Lecture Hall A,2026-01-27,09:00,10:00,Lecture
+B000569,Lecture Hall B,2026-01-27,10:00,12:00,Workshop
+B000570,Lecture Hall B,2026-01-27,15:00,16:00,Tutorial
+B000571,Lecture  Hall  B,2026-01-27,17:00,19:00,Workshop
+B000572,Lecture Hall B,2026-01-27,09:00,11:00,Tutorial
+B000573,Smart Classroom 1,2026-01-27,16:00,17:00,Workshop
+B000574,Smart Classroom 1,2026-01-27,13:00,14:00,Tutorial
+B000575,Smart Classroom 1,2026-01-27,10:00,11:00,Tutorial
+B000576,Smart Classroom 1,2026-01-27,10:00,12:00,Tutorial
+B000577,Smart Classroom 1,2026-01-27,11:00,12:00,Workshop
+B000578,Smart Classroom 1,2026-01-27,08:00,11:00,Tutorial
+B000579,Smart Classroom 1,2026-01-27,15:00,17:00,Workshop
+B000580,Computer Lab 1,2026-01-27,09:00,11:00,Practical
+B000581,Computer Lab 1,2026-01-27,10:00,11:00,Practical
+B000582,Computer Lab 2,2026-01-27,09:00,10:00,Lab Session
+B000583,Computer Lab 2,2026-01-27,16:00,17:00,Project Work
+B000584,Computer Lab 2,2026-01-27,13:00,15:00,Lab Session
+B000585,Computer Lab 2,2026-01-27,09:00,12:00,Project Work
+B000586,Computer Lab 2,2026-01-27,14:00,16:00,Project Work
+B000587,Computer Lab 2,2026-01-27,09:00,11:00,Practical
+B000588,Electronics Lab,2026-01-27,10:00,11:00,Project Work
+B000589,Central Library,2026-01-27,08:00,10:00,Reading
+B000590,Central Library,2026-01-27,08:00,10:00,Group Study
+B000591,Central Library,2026-01-27,09:00,12:00,Group Study
+B000592,Central Library,2026-01-27,13:00,15:00,Reading
+B000593,Central Library,2026-01-27,09:00,10:00,Study
+B000594,Central Library,2026-01-27,09:00,10:00,Group Study
+B000595,Digital Library,2026-01-27,14:00,16:00,Group Study
+B000596,Digital Library,2026-01-27,09:00,10:00,Study
+B000597,Digital Library,2026-01-27,14:00,16:00,Group Study
+B000598,Digital  Library,2026-01-27,08:00,10:00,Reading
+B000599,Digital Library,2026-01-27,12:00,15:00,Reading
+B000600,Cafeteria,2026-01-27,14:00,16:00,Club Meeting
+B000601,Lecture Hall A,2026-01-28,09:00,12:00,Tutorial
+B000602,Lecture Hall A,2026-01-28,16:00,18:00,Tutorial
+B000603,Lecture Hall A,2026-01-28,08:00,09:00,Tutorial
+B000604,Lecture Hall A,2026-01-28,11:00,13:00,Tutorial
+B000605,Lecture  Hall  A,2026-01-28,09:00,11:00,Workshop
+B000606,Lecture Hall B,2026-01-28,15:00,17:00,Lecture
+B000607,Lecture Hall B,2026-01-28,15:00,17:00,Workshop
+B000608,Smart Classroom 1,2026-01-28,12:00,13:00,Tutorial
+B000609,Smart Classroom 1,2026-01-28,16:00,17:00,Workshop
+B000610,Computer Lab 1,2026-01-28,13:00,14:00,Practical
+B000611,Computer Lab 1,2026-01-28,12:00,15:00,Project Work
+B000612,Computer Lab 1,2026-01-28,12:00,13:00,Practical
+B000613,Computer Lab 1,2026-01-28,10:00,12:00,Lab Session
+B000614,Computer Lab 2,2026-01-28,12:00,13:00,Project Work
+B000615,Electronics Lab,2026-01-28,13:00,15:00,Project Work
+B000616,Electronics Lab,2026-01-28,12:00,14:00,Project Work
+B000617,Electronics Lab,2026-01-28,14:00,15:00,Project Work
+B000618,Electronics Lab,2026-01-28,09:00,11:00,Lab Session
+B000619,Central Library,2026-01-28,12:00,13:00,Study
+B000620,Central Library,2026-01-28,12:00,13:00,Study
+B000621,Central Library,2026-01-28,10:00,11:00,Reading
+B000622,Central Library,2026-01-28,08:00,09:00,Group Study
+B000623,Digital Library,2026-01-28,08:00,10:00,Study
+B000624,Digital Library,2026-01-28,10:00,11:00,Study
+B000625,Digital Library,2026-01-28,15:00,17:00,Study
+B000626,Digital Library,2026-01-28,15:00,16:00,Study
+B000627,Digital Library,2026-01-28,10:00,11:00,Study
+B000628,Cafeteria,2026-01-28,15:00,16:00,Student Activity
+B000629,Cafeteria,2026-01-28,14:00,16:00,Dining
+B000630,Cafeteria,2026-01-28,11:00,12:00,Club Meeting
+B000631,Cafeteria,2026-01-28,10:00,11:00,Student Activity
+B000632,Discussion Room,2026-01-28,13:00,15:00,Project Work
+B000633,Discussion Room,2026-01-28,14:00,16:00,Project Work
+B000634,Discussion Room,2026-01-28,16:00,17:00,Discussion
+B000635,Lecture Hall A,2026-01-29,16:00,17:00,Workshop
+B000636,Lecture Hall A,2026-01-29,15:00,18:00,Lecture
+B000637,Lecture Hall B,2026-01-29,14:00,17:00,Workshop
+B000638,Lecture Hall B,2026-01-29,16:00,17:00,Workshop
+B000639,Lecture Hall B,2026-01-29,13:00,14:00,Tutorial
+B000640,Lecture Hall B,2026-01-29,16:00,18:00,Tutorial
+B000641,Lecture Hall B,2026-01-29,10:00,11:00,Tutorial
+B000642,Smart Classroom 1,2026-01-29,10:00,11:00,Lecture
+B000643,Smart Classroom 1,2026-01-29,08:00,10:00,Lecture
+B000644,Computer Lab 1,2026-01-29,12:00,13:00,Project Work
+B000645,Computer Lab 1,2026-01-29,15:00,17:00,Project Work
+B000646,Computer  Lab  2,2026-01-29,13:00,14:00,Practical
+B000647,Electronics Lab,2026-01-29,08:00,09:00,Practical
+B000648,Electronics Lab,2026-01-29,14:00,16:00,Lab Session
+B000649,Central Library,2026-01-29,08:00,11:00,Study
+B000650,Central Library,2026-01-29,16:00,17:00,Study
+B000651,Digital Library,2026-01-29,10:00,12:00,Reading
+B000652,Cafeteria,2026-01-29,11:00,13:00,Club Meeting
+B000653,Cafeteria,2026-01-29,16:00,19:00,Dining
+B000654,Cafeteria,2026-01-29,14:00,16:00,Student Activity
+B000655,Cafeteria,2026-01-29,14:00,16:00,Club Meeting
+B000656,Discussion Room,2026-01-29,15:00,17:00,Group Study
+B000657,Lecture Hall A,2026-01-30,13:00,15:00,Lecture
+B000658,Lecture Hall A,2026-01-30,15:00,17:00,Tutorial
+B000659,Lecture Hall A,2026-01-30,14:00,17:00,Lecture
+B000660,Lecture Hall A,2026-01-30,14:00,16:00,Tutorial
+B000661,Lecture Hall A,2026-01-30,14:00,16:00,Workshop
+B000662,Lecture Hall A,2026-01-30,11:00,12:00,Workshop
+B000663,Lecture Hall B,2026-01-30,08:00,09:00,Workshop
+B000664,Lecture Hall B,2026-01-30,15:00,16:00,Workshop
+B000665,Lecture Hall B,2026-01-30,10:00,12:00,Tutorial
+B000666,Smart Classroom 1,2026-01-30,17:00,18:00,Tutorial
+B000667,Smart Classroom 1,2026-01-30,13:00,14:00,Workshop
+B000668,Smart Classroom 1,2026-01-30,15:00,16:00,Workshop
+B000669,Computer Lab 1,2026-01-30,17:00,19:00,Project Work
+B000670,Computer Lab 1,2026-01-30,15:00,16:00,Lab Session
+B000671,Computer Lab 1,2026-01-30,10:00,11:00,Project Work
+B000672,Computer Lab 1,2026-01-30,15:00,16:00,Lab Session
+B000673,Computer Lab 2,2026-01-30,12:00,14:00,Practical
+B000674,Computer Lab 2,2026-01-30,10:00,12:00,Project Work
+B000675,Computer Lab 2,2026-01-30,17:00,19:00,Lab Session
+B000676,Computer Lab 2,2026-01-30,11:00,12:00,Lab Session
+B000677,COMPUTER LAB 2,2026-01-30,10:00,13:00,Lab Session
+B000678,Computer Lab 2,2026-01-30,09:00,10:00,Practical
+B000679,Electronics Lab,2026-01-30,14:00,15:00,Project Work
+B000680,Electronics Lab,2026-01-30,17:00,19:00,Lab Session
+B000681,Electronics Lab,2026-01-30,15:00,17:00,Project Work
+B000682,Electronics Lab,2026-01-30,14:00,16:00,Lab Session
+B000683,Central Library,2026-01-30,15:00,17:00,Reading
+B000684,Central Library,2026-01-30,15:00,16:00,Study
+B000685,Central Library,2026-01-30,11:00,12:00,Group Study
+B000686,Central Library,2026-01-30,10:00,11:00,Group Study
+B000687,Central Library,2026-01-30,10:00,11:00,Study
+B000688,Central Library,2026-01-30,15:00,16:00,Reading
+B000689,Digital Library,2026-01-30,11:00,13:00,Group Study
+B000690,Digital Library,2026-01-30,10:00,11:00,Study
+B000691,Digital Library,2026-01-30,10:00,12:00,Group Study
+B000692,Digital Library,2026-01-30,14:00,15:00,Group Study
+B000693,Digital Library,2026-01-30,09:00,10:00,Group Study
+B000694,Seminar Hall,2026-01-30,08:00,10:00,Workshop
+B000695,Cafeteria,2026-01-30,08:00,09:00,Student Activity
+B000696,Cafeteria,2026-01-30,13:00,15:00,Student Activity
+B000697,Cafeteria,2026-01-30,10:00,12:00,Student Activity
+B000698,Auditorium,2026-01-30,17:00,19:00,Event
+B000699,Discussion Room,2026-01-30,15:00,16:00,Project Work
+B000700,Discussion Room,2026-01-30,17:00,18:00,Discussion
+B000701,Discussion Room,2026-01-30,16:00,18:00,Group Study
+B000702,Discussion Room,2026-01-30,09:00,12:00,Discussion
+B000703,Discussion Room,2026-01-30,15:00,16:00,Group Study
+B000704,Lecture Hall A,2026-02-02,10:00,12:00,Lecture
+B000705,Lecture Hall A,2026-02-02,09:00,10:00,Tutorial
+B000706,Lecture Hall A,2026-02-02,12:00,13:00,Tutorial
+B000707,Lecture Hall B,2026-02-02,10:00,11:00,Tutorial
+B000708,Lecture Hall B,2026-02-02,10:00,12:00,Workshop
+B000709,Lecture Hall B,2026-02-02,17:00,19:00,Tutorial
+B000710,Lecture Hall B,2026-02-02,12:00,14:00,Tutorial
+B000711,Smart Classroom 1,2026-02-02,12:00,15:00,Lecture
+B000712,Smart Classroom 1,2026-02-02,11:00,13:00,Lecture
+B000713,Smart Classroom 1,2026-02-02,08:00,09:00,Tutorial
+B000714,Smart Classroom 1,2026-02-02,13:00,15:00,Tutorial
+B000715,Computer Lab 2,2026-02-02,09:00,10:00,Project Work
+B000716,Electronics Lab,2026-02-02,13:00,14:00,Project Work
+B000717,Electronics Lab,2026-02-02,11:00,12:00,Practical
+B000718,Electronics Lab,2026-02-02,14:00,16:00,Project Work
+B000719,Electronics Lab,2026-02-02,14:00,16:00,Lab Session
+B000720,Central Library,2026-02-02,14:00,15:00,Group Study
+B000721,Central Library,2026-02-02,14:00,16:00,Study
+B000722,Central Library,2026-02-02,16:00,17:00,Group Study
+B000723,Central Library,2026-02-02,10:00,11:00,Group Study
+B000724,Central Library,2026-02-02,11:00,12:00,Group Study
+B000725,Central Library,2026-02-02,15:00,16:00,Group Study
+B000726,Central Library,2026-02-02,12:00,13:00,Reading
+B000727,Digital Library,2026-02-02,10:00,11:00,Reading
+B000728,Digital  Library,2026-02-02,11:00,12:00,Reading
+B000729,Digital Library,2026-02-02,11:00,13:00,Reading
+B000730,Digital Library,2026-02-02,12:00,15:00,Reading
+B000731,Digital Library,2026-02-02,15:00,18:00,Study
+B000732,Digital Library,2026-02-02,14:00,15:00,Group Study
+B000733,Seminar Hall,2026-02-02,11:00,12:00,Seminar
+B000734,Cafeteria,2026-02-02,15:00,16:00,Dining
+B000735,Cafeteria,2026-02-02,11:00,12:00,Dining
+B000736,Cafeteria,2026-02-02,13:00,15:00,Dining
+B000737,Cafeteria,2026-02-02,15:00,16:00,Student Activity
+B000738,Cafeteria,2026-02-02,13:00,15:00,Dining
+B000739,Cafeteria,2026-02-02,16:00,18:00,Dining
+B000740,Cafeteria,2026-02-02,08:00,09:00,Club Meeting
+B000741,Discussion Room,2026-02-02,08:00,09:00,Discussion
+B000742,Lecture Hall A,2026-02-03,15:00,16:00,Tutorial
+B000743,Lecture Hall A,2026-02-03,16:00,18:00,Workshop
+B000744,Lecture Hall A,2026-02-03,17:00,19:00,Lecture
+B000745,Lecture Hall B,2026-02-03,10:00,11:00,Tutorial
+B000746,Lecture Hall B,2026-02-03,09:00,10:00,Lecture
+B000747,Smart Classroom 1,2026-02-03,08:00,09:00,Workshop
+B000748,Smart Classroom 1,2026-02-03,12:00,14:00,Workshop
+B000749,Computer Lab 1,2026-02-03,08:00,09:00,Practical
+B000750,Computer Lab 1,2026-02-03,17:00,19:00,Lab Session
+B000751,Computer Lab 2,2026-02-03,09:00,10:00,Project Work
+B000752,Computer Lab 2,2026-02-03,14:00,15:00,Project Work
+B000753,Electronics Lab,2026-02-03,09:00,10:00,Project Work
+B000754,Electronics Lab,2026-02-03,09:00,12:00,Practical
+B000755,Central Library,2026-02-03,14:00,15:00,Study
+B000756,Central Library,2026-02-03,16:00,18:00,Reading
+B000757,Central Library,2026-02-03,14:00,15:00,Group Study
+B000758,Digital Library,2026-02-03,10:00,12:00,Study
+B000759,Digital Library,2026-02-03,11:00,13:00,Group Study
+B000760,Digital Library,2026-02-03,12:00,13:00,Study
+B000761,Digital Library,2026-02-03,11:00,13:00,Study
+B000762,Seminar Hall,2026-02-03,15:00,17:00,Guest Lecture
+B000763,Cafeteria,2026-02-03,13:00,14:00,Dining
+B000764,Cafeteria,2026-02-03,14:00,17:00,Dining
+B000765,Cafeteria,2026-02-03,13:00,14:00,Student Activity
+B000766,Cafeteria,2026-02-03,11:00,13:00,Dining
+B000767,Discussion Room,2026-02-03,14:00,15:00,Project Work
+B000768,Lecture Hall A,2026-02-04,09:00,10:00,Tutorial
+B000769,Lecture Hall A,2026-02-04,09:00,10:00,Tutorial
+B000770,Lecture Hall B,2026-02-04,16:00,17:00,Tutorial
+B000771,Lecture Hall B,2026-02-04,16:00,17:00,Tutorial
+B000772,Lecture Hall B,2026-02-04,14:00,15:00,Tutorial
+B000773,Lecture Hall B,2026-02-04,13:00,15:00,Lecture
+B000774,Lecture Hall B,2026-02-04,16:00,18:00,Tutorial
+B000775,Lecture Hall B,2026-02-04,17:00,18:00,Lecture
+B000776,Smart Classroom 1,2026-02-04,12:00,14:00,Workshop
+B000777,Smart Classroom 1,2026-02-04,11:00,13:00,Workshop
+B000778,Smart Classroom 1,2026-02-04,12:00,13:00,Lecture
+B000779,Smart Classroom 1,2026-02-04,11:00,12:00,Tutorial
+B000780,Smart  Classroom  1,2026-02-04,11:00,12:00,Lecture
+B000781,Smart Classroom 1,2026-02-04,16:00,17:00,Workshop
+B000782,Smart Classroom 1,2026-02-04,12:00,13:00,Lecture
+B000783,Computer Lab 1,2026-02-04,11:00,13:00,Project Work
+B000784,Computer Lab 1,2026-02-04,14:00,17:00,Practical
+B000785,Computer Lab 2,2026-02-04,14:00,15:00,Practical
+B000786,Computer Lab 2,2026-02-04,09:00,10:00,Practical
+B000787,Computer Lab 2,2026-02-04,09:00,11:00,Practical
+B000788,Computer Lab 2,2026-02-04,10:00,11:00,Practical
+B000789,Computer Lab 2,2026-02-04,09:00,10:00,Project Work
+B000790,Computer Lab 2,2026-02-04,09:00,11:00,Practical
+B000791,Electronics Lab,2026-02-04,11:00,12:00,Practical
+B000792,Central Library,2026-02-04,14:00,15:00,Study
+B000793,Central Library,2026-02-04,09:00,10:00,Group Study
+B000794,Central Library,2026-02-04,10:00,12:00,
+B000795,Digital Library,2026-02-04,14:00,16:00,Study
+B000796,Digital Library,2026-02-04,11:00,13:00,Reading
+B000797,Digital Library,2026-02-04,15:00,17:00,Study
+B000798,Seminar Hall,2026-02-04,15:00,16:00,Guest Lecture
+B000799,Cafeteria,2026-02-04,12:00,14:00,Club Meeting
+B000800,Cafeteria,2026-02-04,12:00,15:00,Dining
+B000801,Auditorium,2026-02-04,15:00,17:00,Presentation
+B000802,Discussion Room,2026-02-04,08:00,09:00,Group Study
+B000803,Discussion Room,2026-02-04,14:00,15:00,Discussion
+B000804,Discussion Room,2026-02-04,09:00,11:00,Discussion
+B000805,Discussion Room,2026-02-04,10:00,13:00,Discussion
+B000806,Discussion Room,2026-02-04,08:00,09:00,Discussion
+B000807,Discussion Room,2026-02-04,11:00,12:00,Group Study
+B000808,Discussion Room,2026-02-04,14:00,15:00,Group Study
+B000809,Lecture Hall A,2026-02-05,09:00,11:00,Tutorial
+B000810,Lecture Hall B,2026-02-05,13:00,16:00,Lecture
+B000811,Lecture Hall B,2026-02-05,11:00,13:00,Workshop
+B000812,Lecture Hall B,2026-02-05,08:00,09:00,Lecture
+B000813,Lecture Hall B,2026-02-05,14:00,16:00,Tutorial
+B000814,Lecture Hall B,2026-02-05,16:00,17:00,Workshop
+B000815,Smart Classroom 1,2026-02-05,08:00,09:00,Workshop
+B000816,Computer Lab 1,2026-02-05,10:00,12:00,Lab Session
+B000817,Computer Lab 2,2026-02-05,08:00,10:00,Lab Session
+B000818,Computer Lab 2,2026-02-05,14:00,17:00,Project Work
+B000819,Computer Lab 2,2026-02-05,14:00,15:00,Practical
+B000820,Electronics Lab,2026-02-05,13:00,14:00,Practical
+B000821,Electronics Lab,2026-02-05,09:00,10:00,Project Work
+B000822,Electronics Lab,2026-02-05,09:00,11:00,Project Work
+B000823,Central Library,2026-02-05,10:00,11:00,Reading
+B000824,Central Library,2026-02-05,10:00,11:00,Study
+B000825,Digital Library,2026-02-05,14:00,15:00,Study
+B000826,Digital Library,2026-02-05,14:00,15:00,Reading
+B000827,Digital Library,2026-02-05,13:00,16:00,Group Study
+B000828,Digital Library,2026-02-05,09:00,10:00,Reading
+B000829,Digital Library,2026-02-05,09:00,10:00,Reading
+B000830,Digital Library,2026-02-05,08:00,09:00,Study
+B000831,Cafeteria,2026-02-05,09:00,10:00,Club Meeting
+B000832,Cafeteria,2026-02-05,10:00,12:00,Student Activity
+B000833,Cafeteria,2026-02-05,13:00,15:00,Dining
+B000834,Discussion Room,2026-02-05,10:00,12:00,Discussion
+B000835,Lecture Hall A,2026-02-06,15:00,18:00,Tutorial
+B000836,Lecture Hall A,2026-02-06,12:00,13:00,Workshop
+B000837,Lecture Hall A,2026-02-06,08:00,10:00,Tutorial
+B000838,Lecture Hall A,2026-02-06,10:00,13:00,Lecture
+B000839,Lecture Hall B,2026-02-06,16:00,17:00,Workshop
+B000840,Lecture Hall B,2026-02-06,12:00,14:00,Workshop
+B000841,Lecture Hall B,2026-02-06,15:00,18:00,Tutorial
+B000842,Smart Classroom 1,2026-02-06,10:00,12:00,Lecture
+B000843,Smart Classroom 1,2026-02-06,17:00,18:00,Tutorial
+B000844,Smart Classroom 1,2026-02-06,12:00,13:00,Tutorial
+B000845,Smart Classroom 1,2026-02-06,08:00,09:00,Lecture
+B000846,Smart Classroom 1,2026-02-06,09:00,10:00,Tutorial
+B000847,Computer Lab 1,2026-02-06,15:00,16:00,Lab Session
+B000848,Computer Lab 1,2026-02-06,11:00,12:00,Project Work
+B000849,Computer Lab 1,2026-02-06,09:00,10:00,Lab Session
+B000850,Computer Lab 2,2026-02-06,13:00,15:00,Project Work
+B000851,Computer Lab 2,2026-02-06,12:00,13:00,Practical
+B000852,Computer Lab 2,2026-02-06,15:00,16:00,Lab Session
+B000853,Computer Lab 2,2026-02-06,08:00,11:00,Practical
+B000854,Electronics Lab,2026-02-06,14:00,15:00,Project Work
+B000855,Electronics Lab,2026-02-06,08:00,10:00,Project Work
+B000856,Central Library,2026-02-06,10:00,12:00,Reading
+B000857,Central Library,2026-02-06,14:00,15:00,Group Study
+B000858,Central Library,2026-02-06,10:00,12:00,Reading
+B000859,Central Library,2026-02-06,15:00,16:00,Reading
+B000860,Central Library,2026-02-06,12:00,13:00,Group Study
+B000861,Digital Library,2026-02-06,10:00,13:00,Group Study
+B000862,Digital Library,2026-02-06,10:00,11:00,Group Study
+B000863,Digital Library,2026-02-06,17:00,19:00,Reading
+B000864,Digital Library,2026-02-06,15:00,16:00,Reading
+B000865,Digital Library,2026-02-06,15:00,16:00,Group Study
+B000866,Digital Library,2026-02-06,10:00,11:00,Group Study
+B000867,Digital Library,2026-02-06,11:00,12:00,Study
+B000868,Digital Library,2026-02-06,13:00,15:00,Study
+B000869,Digital Library,2026-02-06,15:00,16:00,Group Study
+B000870,Digital Library,2026-02-06,10:00,11:00,Group Study
+B000871,Digital Library,2026-02-06,13:00,14:00,Study
+B000872,Cafeteria,2026-02-06,08:00,09:00,Dining
+B000873,Auditorium,2026-02-06,10:00,11:00,Cultural Program
+B000874,Auditorium,2026-02-06,09:00,10:00,Cultural Program
+B000875,Discussion Room,2026-02-06,13:00,14:00,Discussion
+B000876,Lecture Hall A,2026-02-09,15:00,16:00,Tutorial
+B000877,Lecture Hall A,2026-02-09,08:00,09:00,Tutorial
+B000878,Lecture Hall A,2026-02-09,09:00,10:00,Lecture
+B000879,Lecture Hall A,2026-02-09,16:00,17:00,Tutorial
+B000880,Lecture Hall A,2026-02-09,17:00,18:00,Tutorial
+B000881,Lecture Hall B,2026-02-09,12:00,14:00,Lecture
+B000882,Lecture Hall B,2026-02-09,11:00,12:00,Tutorial
+B000883,Lecture Hall B,2026-02-09,10:00,11:00,Lecture
+B000884,Lecture Hall B,2026-02-09,11:00,13:00,Tutorial
+B000885,Lecture Hall B,2026-02-09,16:00,18:00,Tutorial
+B000886,Lecture Hall B,2026-02-09,13:00,14:00,Tutorial
+B000887,Lecture Hall B,2026-02-09,13:00,14:00,Tutorial
+B000888,Lecture Hall B,2026-02-09,10:00,12:00,Workshop
+B000889,Smart Classroom 1,2026-02-09,08:00,09:00,Workshop
+B000890,Smart Classroom 1,2026-02-09,10:00,12:00,Tutorial
+B000891,Smart Classroom 1,2026-02-09,08:00,09:00,Workshop
+B000892,Smart Classroom 1,2026-02-09,09:00,10:00,Lecture
+B000893,Smart Classroom 1,2026-02-09,12:00,15:00,Workshop
+B000894,Smart Classroom 1,2026-02-09,17:00,18:00,Lecture
+B000895,Smart Classroom 1,2026-02-09,12:00,15:00,Lecture
+B000896,Computer  Lab  1,2026-02-09,14:00,16:00,Practical
+B000897,Computer Lab 1,2026-02-09,11:00,12:00,Project Work
+B000898,Computer Lab 1,2026-02-09,09:00,10:00,Lab Session
+B000899,COMPUTER LAB 2,2026-02-09,14:00,15:00,Lab Session
+B000900,Computer Lab 2,2026-02-09,10:00,13:00,Project Work
+B000901,Computer Lab 2,2026-02-09,09:00,10:00,Practical
+B000902,Computer Lab 2,2026-02-09,11:00,12:00,Project Work
+B000903,Computer Lab 2,2026-02-09,15:00,17:00,Lab Session
+B000904,Computer Lab 2,2026-02-09,11:00,13:00,Project Work
+B000905,Computer  Lab  2,2026-02-09,12:00,15:00,Project Work
+B000906,Electronics Lab,2026-02-09,13:00,15:00,Lab Session
+B000907,Electronics Lab,2026-02-09,14:00,15:00,Lab Session
+B000908,Central Library,2026-02-09,08:00,09:00,Study
+B000909,Central Library,2026-02-09,11:00,12:00,Study
+B000910,Central Library,2026-02-09,10:00,11:00,Group Study
+B000911,Central Library,2026-02-09,14:00,15:00,Study
+B000912,Central Library,2026-02-09,09:00,10:00,Group Study
+B000913,Central Library,2026-02-09,13:00,14:00,Reading
+B000914,Central Library,2026-02-09,16:00,17:00,Study
+B000915,Central Library,2026-02-09,09:00,10:00,Group Study
+B000916,Central Library,2026-02-09,13:00,14:00,Reading
+B000917,Digital Library,2026-02-09,13:00,15:00,Reading
+B000918,Digital Library,2026-02-09,15:00,16:00,Group Study
+B000919,Digital Library,2026-02-09,17:00,18:00,Group Study
+B000920,Digital Library,2026-02-09,10:00,12:00,Reading
+B000921,Digital Library,2026-02-09,12:00,14:00,Reading
+B000922,Digital Library,2026-02-09,10:00,11:00,Group Study
+B000923,Digital Library,2026-02-09,13:00,15:00,Group Study
+B000924,Cafeteria,2026-02-09,16:00,17:00,Club Meeting
+B000925,Cafeteria,2026-02-09,14:00,17:00,Club Meeting
+B000926,Discussion Room,2026-02-09,10:00,11:00,
+B000927,Discussion Room,2026-02-09,14:00,16:00,Project Work
+B000928,Discussion Room,2026-02-09,13:00,14:00,Discussion
+B000929,Lecture Hall A,2026-02-10,13:00,16:00,Tutorial
+B000930,Lecture Hall A,2026-02-10,13:00,15:00,Tutorial
+B000931,Lecture Hall A,2026-02-10,10:00,12:00,Tutorial
+B000932,Lecture Hall B,2026-02-10,14:00,15:00,Tutorial
+B000933,LECTURE HALL B,2026-02-10,10:00,11:00,Lecture
+B000934,Lecture Hall B,2026-02-10,11:00,12:00,Lecture
+B000935,Lecture Hall B,2026-02-10,13:00,14:00,Workshop
+B000936,Smart Classroom 1,2026-02-10,10:00,11:00,Lecture
+B000937,Smart Classroom 1,2026-02-10,13:00,14:00,Tutorial
+B000938,Smart Classroom 1,2026-02-10,08:00,10:00,Lecture
+B000939,Smart Classroom 1,2026-02-10,13:00,14:00,Workshop
+B000940,Smart Classroom 1,2026-02-10,11:00,13:00,Workshop
+B000941,Smart Classroom 1,2026-02-10,14:00,15:00,Workshop
+B000942,Smart Classroom 1,2026-02-10,14:00,16:00,Lecture
+B000943,Computer Lab 1,2026-02-10,14:00,15:00,Practical
+B000944,Computer Lab 1,2026-02-10,12:00,14:00,Practical
+B000945,COMPUTER LAB 2,2026-02-10,13:00,14:00,Project Work
+B000946,Computer Lab 2,2026-02-10,15:00,16:00,Lab Session
+B000947,Computer Lab 2,2026-02-10,09:00,11:00,Lab Session
+B000948,Computer Lab 2,2026-02-10,14:00,15:00,Project Work
+B000949,Computer Lab 2,2026-02-10,11:00,12:00,Project Work
+B000950,Computer Lab 2,2026-02-10,15:00,16:00,Project Work
+B000951,Electronics Lab,2026-02-10,15:00,16:00,Project Work
+B000952,Electronics Lab,2026-02-10,13:00,14:00,Lab Session
+B000953,Central Library,2026-02-10,10:00,11:00,Study
+B000954,Central Library,2026-02-10,17:00,18:00,Study
+B000955,Central Library,2026-02-10,11:00,13:00,Group Study
+B000956,Central Library,2026-02-10,11:00,12:00,Study
+B000957,Central Library,2026-02-10,15:00,16:00,Group Study
+B000958,Central Library,2026-02-10,11:00,13:00,Study
+B000959,Central Library,2026-02-10,17:00,19:00,Group Study
+B000960,Digital Library,2026-02-10,09:00,10:00,Study
+B000961,Digital Library,2026-02-10,09:00,11:00,Reading
+B000962,Digital Library,2026-02-10,09:00,12:00,Reading
+B000963,Digital Library,2026-02-10,08:00,09:00,Study
+B000964,Digital Library,2026-02-10,11:00,13:00,Group Study
+B000965,Digital Library,2026-02-10,11:00,12:00,Study
+B000966,Digital Library,2026-02-10,10:00,11:00,Study
+B000967,Seminar Hall,2026-02-10,08:00,09:00,Workshop
+B000968,Cafeteria,2026-02-10,15:00,17:00,Dining
+B000969,Cafeteria,2026-02-10,10:00,12:00,Club Meeting
+B000970,CAFETERIA,2026-02-10,10:00,11:00,Student Activity
+B000971,Cafeteria,2026-02-10,10:00,12:00,Club Meeting
+B000972,Auditorium,2026-02-10,11:00,13:00,Presentation
+B000973,Auditorium,2026-02-10,14:00,15:00,Event
+B000974,Discussion  Room,2026-02-10,09:00,10:00,Group Study
+B000975,Discussion Room,2026-02-10,12:00,14:00,Discussion
+B000976,Lecture Hall B,2026-02-11,12:00,14:00,Tutorial
+B000977,Lecture Hall B,2026-02-11,14:00,15:00,Tutorial
+B000978,Lecture Hall B,2026-02-11,17:00,18:00,Tutorial
+B000979,SMART CLASSROOM 1,2026-02-11,11:00,12:00,Tutorial
+B000980,Smart Classroom 1,2026-02-11,08:00,11:00,Tutorial
+B000981,Smart Classroom 1,2026-02-11,11:00,12:00,Lecture
+B000982,Computer Lab 1,2026-02-11,08:00,09:00,Practical
+B000983,Computer Lab 1,2026-02-11,13:00,14:00,Lab Session
+B000984,Computer Lab 2,2026-02-11,08:00,09:00,Lab Session
+B000985,Electronics Lab,2026-02-11,09:00,10:00,Practical
+B000986,Electronics Lab,2026-02-11,09:00,10:00,Practical
+B000987,Electronics Lab,2026-02-11,12:00,14:00,Lab Session
+B000988,Electronics Lab,2026-02-11,09:00,11:00,Lab Session
+B000989,Central Library,2026-02-11,16:00,17:00,Study
+B000990,Central Library,2026-02-11,15:00,18:00,Reading
+B000991,Central Library,2026-02-11,15:00,17:00,Reading
+B000992,Central Library,2026-02-11,14:00,16:00,Reading
+B000993,Central Library,2026-02-11,14:00,17:00,Study
+B000994,Central Library,2026-02-11,11:00,12:00,Study
+B000995,Central Library,2026-02-11,13:00,14:00,Study
+B000996,Central Library,2026-02-11,11:00,13:00,Reading
+B000997,Central Library,2026-02-11,13:00,16:00,Group Study
+B000998,Central Library,2026-02-11,09:00,11:00,Study
+B000999,Digital Library,2026-02-11,10:00,11:00,Study
+B001000,Digital Library,2026-02-11,13:00,14:00,Study
+B001001,Digital Library,2026-02-11,16:00,17:00,Reading
+B001002,Digital Library,2026-02-11,13:00,15:00,Group Study
+B001003,Digital Library,2026-02-11,09:00,11:00,Reading
+B001004,Cafeteria,2026-02-11,11:00,13:00,Club Meeting
+B001005,Cafeteria,2026-02-11,15:00,16:00,Club Meeting
+B001006,Cafeteria,2026-02-11,15:00,17:00,Student Activity
+B001007,Discussion Room,2026-02-11,13:00,15:00,Discussion
+B001008,Discussion Room,2026-02-11,11:00,12:00,Project Work
+B001009,Discussion Room,2026-02-11,08:00,09:00,Project Work
+B001010,Discussion Room,2026-02-11,16:00,17:00,Project Work
+B001011,Discussion Room,2026-02-11,10:00,11:00,Project Work
+B001012,Lecture Hall A,2026-02-12,14:00,16:00,Workshop
+B001013,Lecture Hall A,2026-02-12,14:00,15:00,Tutorial
+B001014,Lecture Hall A,2026-02-12,16:00,18:00,Tutorial
+B001015,Lecture Hall A,2026-02-12,12:00,13:00,Workshop
+B001016,Lecture Hall A,2026-02-12,10:00,12:00,Workshop
+B001017,Lecture Hall A,2026-02-12,10:00,11:00,Lecture
+B001018,Lecture Hall A,2026-02-12,14:00,15:00,Workshop
+B001019,Lecture Hall B,2026-02-12,08:00,11:00,Workshop
+B001020,Lecture  Hall  B,2026-02-12,11:00,12:00,Lecture
+B001021,Lecture Hall B,2026-02-12,16:00,18:00,Lecture
+B001022,Lecture Hall B,2026-02-12,16:00,18:00,Workshop
+B001023,Lecture Hall B,2026-02-12,13:00,14:00,
+B001024,Lecture Hall B,2026-02-12,15:00,16:00,Tutorial
+B001025,SMART CLASSROOM 1,2026-02-12,12:00,13:00,Workshop
+B001026,Smart Classroom 1,2026-02-12,13:00,15:00,Lecture
+B001027,Smart Classroom 1,2026-02-12,12:00,13:00,Lecture
+B001028,Smart Classroom 1,2026-02-12,08:00,10:00,Lecture
+B001029,Smart Classroom 1,2026-02-12,14:00,15:00,Lecture
+B001030,Smart Classroom 1,2026-02-12,09:00,10:00,Workshop
+B001031,Smart Classroom 1,2026-02-12,08:00,11:00,Lecture
+B001032,Computer Lab 1,2026-02-12,11:00,13:00,Practical
+B001033,Electronics Lab,2026-02-12,11:00,13:00,Practical
+B001034,Electronics Lab,2026-02-12,10:00,11:00,Lab Session
+B001035,ELECTRONICS LAB,2026-02-12,17:00,18:00,Lab Session
+B001036,Electronics Lab,2026-02-12,10:00,11:00,Project Work
+B001037,Electronics Lab,2026-02-12,13:00,15:00,Project Work
+B001038,Central Library,2026-02-12,17:00,18:00,Group Study
+B001039,Central Library,2026-02-12,13:00,14:00,
+B001040,Central Library,2026-02-12,14:00,15:00,Study
+B001041,Central Library,2026-02-12,09:00,12:00,Study
+B001042,Central Library,2026-02-12,15:00,16:00,Group Study
+B001043,Central Library,2026-02-12,14:00,15:00,Reading
+B001044,Central Library,2026-02-12,08:00,11:00,Group Study
+B001045,Digital Library,2026-02-12,11:00,12:00,Reading
+B001046,Digital Library,2026-02-12,10:00,11:00,Group Study
+B001047,Digital Library,2026-02-12,16:00,17:00,Study
+B001048,Digital Library,2026-02-12,16:00,17:00,Reading
+B001049,Digital  Library,2026-02-12,09:00,11:00,Study
+B001050,Digital Library,2026-02-12,12:00,14:00,Group Study
+B001051,Digital Library,2026-02-12,17:00,19:00,Reading
+B001052,Digital Library,2026-02-12,14:00,15:00,Reading
+B001053,Seminar Hall,2026-02-12,10:00,11:00,Workshop
+B001054,SEMINAR HALL,2026-02-12,15:00,17:00,Seminar
+B001055,Cafeteria,2026-02-12,12:00,13:00,Dining
+B001056,Cafeteria,2026-02-12,13:00,15:00,Student Activity
+B001057,Cafeteria,2026-02-12,11:00,13:00,Club Meeting
+B001058,Cafeteria,2026-02-12,10:00,12:00,Student Activity
+B001059,Cafeteria,2026-02-12,11:00,13:00,Club Meeting
+B001060,Discussion Room,2026-02-12,13:00,15:00,Group Study
+B001061,Discussion Room,2026-02-12,10:00,11:00,Project Work
+B001062,Discussion Room,2026-02-12,08:00,09:00,Group Study
+B001063,Lecture Hall A,2026-02-13,15:00,16:00,Lecture
+B001064,Lecture Hall A,2026-02-13,13:00,14:00,Lecture
+B001065,Lecture Hall A,2026-02-13,16:00,17:00,Lecture
+B001066,Lecture Hall A,2026-02-13,10:00,11:00,Tutorial
+B001067,Lecture Hall B,2026-02-13,12:00,13:00,Workshop
+B001068,Lecture Hall B,2026-02-13,10:00,12:00,Workshop
+B001069,Lecture Hall B,2026-02-13,13:00,15:00,Workshop
+B001070,Smart  Classroom  1,2026-02-13,09:00,11:00,Tutorial
+B001071,Smart Classroom 1,2026-02-13,08:00,09:00,Tutorial
+B001072,Smart Classroom 1,2026-02-13,13:00,14:00,Lecture
+B001073,Smart Classroom 1,2026-02-13,14:00,15:00,Tutorial
+B001074,Smart Classroom 1,2026-02-13,15:00,16:00,Workshop
+B001075,Smart Classroom 1,2026-02-13,08:00,10:00,Tutorial
+B001076,Smart Classroom 1,2026-02-13,16:00,18:00,Workshop
+B001077,Computer Lab 1,2026-02-13,09:00,11:00,Lab Session
+B001078,Computer Lab 1,2026-02-13,09:00,11:00,Lab Session
+B001079,Computer Lab 1,2026-02-13,16:00,18:00,Project Work
+B001080,Computer Lab 1,2026-02-13,10:00,12:00,Project Work
+B001081,Computer Lab 2,2026-02-13,14:00,17:00,Lab Session
+B001082,Computer Lab 2,2026-02-13,13:00,15:00,Lab Session
+B001083,Computer Lab 2,2026-02-13,08:00,09:00,Practical
+B001084,Computer Lab 2,2026-02-13,17:00,18:00,Project Work
+B001085,Computer Lab 2,2026-02-13,14:00,15:00,Practical
+B001086,Electronics Lab,2026-02-13,09:00,12:00,Lab Session
+B001087,Electronics Lab,2026-02-13,12:00,13:00,Project Work
+B001088,Central Library,2026-02-13,14:00,16:00,Group Study
+B001089,Central Library,2026-02-13,17:00,19:00,Reading
+B001090,Central Library,2026-02-13,10:00,12:00,Group Study
+B001091,Central Library,2026-02-13,15:00,16:00,Study
+B001092,Central Library,2026-02-13,09:00,10:00,Study
+B001093,Central Library,2026-02-13,12:00,14:00,Study
+B001094,Central Library,2026-02-13,11:00,13:00,Reading
+B001095,Digital Library,2026-02-13,14:00,16:00,Reading
+B001096,Digital Library,2026-02-13,10:00,11:00,Reading
+B001097,Digital Library,2026-02-13,14:00,16:00,Study
+B001098,Digital Library,2026-02-13,11:00,12:00,Reading
+B001099,Digital Library,2026-02-13,12:00,14:00,Group Study
+B001100,Digital Library,2026-02-13,10:00,12:00,Reading
+B001101,Digital Library,2026-02-13,15:00,16:00,Study
+B001102,Cafeteria,2026-02-13,16:00,19:00,Student Activity
+B001103,Cafeteria,2026-02-13,15:00,18:00,Dining
+B001104,Cafeteria,2026-02-13,10:00,11:00,Club Meeting
+B001105,Discussion Room,2026-02-13,13:00,15:00,Discussion
+B001106,Discussion Room,2026-02-13,15:00,17:00,Project Work
+B001107,Discussion Room,2026-02-13,13:00,14:00,Project Work
+B001108,Lecture Hall A,2026-02-16,10:00,11:00,Lecture
+B001109,Lecture Hall A,2026-02-16,16:00,17:00,Workshop
+B001110,Lecture Hall A,2026-02-16,09:00,11:00,Tutorial
+B001111,Lecture Hall A,2026-02-16,13:00,14:00,Workshop
+B001112,Lecture Hall B,2026-02-16,15:00,16:00,Tutorial
+B001113,Lecture Hall B,2026-02-16,12:00,14:00,Lecture
+B001114,Lecture Hall B,2026-02-16,10:00,11:00,Tutorial
+B001115,Lecture Hall B,2026-02-16,12:00,13:00,Tutorial
+B001116,Smart Classroom 1,2026-02-16,14:00,15:00,Tutorial
+B001117,Smart Classroom 1,2026-02-16,15:00,17:00,Tutorial
+B001118,Smart Classroom 1,2026-02-16,17:00,18:00,Tutorial
+B001119,Smart Classroom 1,2026-02-16,10:00,12:00,Workshop
+B001120,Smart Classroom 1,2026-02-16,13:00,15:00,Lecture
+B001121,Computer Lab 1,2026-02-16,10:00,11:00,Practical
+B001122,Computer Lab 1,2026-02-16,13:00,14:00,Lab Session
+B001123,ELECTRONICS LAB,2026-02-16,14:00,15:00,Lab Session
+B001124,Electronics Lab,2026-02-16,09:00,10:00,Project Work
+B001125,Electronics Lab,2026-02-16,10:00,12:00,Lab Session
+B001126,Central Library,2026-02-16,09:00,11:00,Group Study
+B001127,Central Library,2026-02-16,15:00,16:00,Reading
+B001128,Central Library,2026-02-16,08:00,09:00,Group Study
+B001129,Central Library,2026-02-16,09:00,11:00,Reading
+B001130,Central Library,2026-02-16,13:00,14:00,Study
+B001131,Central Library,2026-02-16,15:00,17:00,Group Study
+B001132,Central Library,2026-02-16,13:00,14:00,Study
+B001133,Central Library,2026-02-16,13:00,15:00,Group Study
+B001134,Digital Library,2026-02-16,08:00,09:00,Group Study
+B001135,Digital Library,2026-02-16,16:00,19:00,Group Study
+B001136,Digital Library,2026-02-16,15:00,17:00,Study
+B001137,Digital Library,2026-02-16,09:00,12:00,Group Study
+B001138,Cafeteria,2026-02-16,17:00,19:00,Club Meeting
+B001139,Discussion Room,2026-02-16,14:00,17:00,Group Study
+B001140,Discussion Room,2026-02-16,11:00,12:00,Discussion
+B001141,Lecture Hall A,2026-02-17,08:00,09:00,Workshop
+B001142,Lecture Hall A,2026-02-17,16:00,18:00,Tutorial
+B001143,Lecture Hall A,2026-02-17,11:00,12:00,Tutorial
+B001144,Lecture Hall A,2026-02-17,10:00,11:00,Lecture
+B001145,Lecture Hall B,2026-02-17,09:00,11:00,Lecture
+B001146,Smart Classroom 1,2026-02-17,08:00,10:00,Workshop
+B001147,Smart Classroom 1,2026-02-17,15:00,16:00,Tutorial
+B001148,Smart Classroom 1,2026-02-17,14:00,15:00,Workshop
+B001149,Computer Lab 1,2026-02-17,12:00,14:00,Lab Session
+B001150,Computer Lab 1,2026-02-17,09:00,11:00,Project Work
+B001151,Computer Lab 1,2026-02-17,17:00,19:00,Lab Session
+B001152,Computer Lab 2,2026-02-17,11:00,12:00,Practical
+B001153,Electronics Lab,2026-02-17,15:00,16:00,Practical
+B001154,Electronics Lab,2026-02-17,14:00,15:00,Lab Session
+B001155,Central Library,2026-02-17,09:00,10:00,Reading
+B001156,Central Library,2026-02-17,10:00,11:00,Study
+B001157,Digital Library,2026-02-17,09:00,11:00,Group Study
+B001158,Digital Library,2026-02-17,14:00,15:00,Group Study
+B001159,Digital Library,2026-02-17,15:00,17:00,Reading
+B001160,Digital Library,2026-02-17,11:00,12:00,Group Study
+B001161,Cafeteria,2026-02-17,13:00,14:00,Student Activity
+B001162,Cafeteria,2026-02-17,17:00,18:00,Student Activity
+B001163,Cafeteria,2026-02-17,11:00,14:00,Club Meeting
+B001164,Cafeteria,2026-02-17,11:00,12:00,Club Meeting
+B001165,Cafeteria,2026-02-17,15:00,17:00,Student Activity
+B001166,Cafeteria,2026-02-17,14:00,15:00,Club Meeting
+B001167,Auditorium,2026-02-17,09:00,10:00,Event
+B001168,Discussion Room,2026-02-17,17:00,18:00,Project Work
+B001169,Discussion Room,2026-02-17,09:00,10:00,Discussion
+B001170,Lecture Hall A,2026-02-18,14:00,15:00,Lecture
+B001171,Lecture Hall A,2026-02-18,09:00,11:00,Workshop
+B001172,Lecture Hall A,2026-02-18,11:00,12:00,Tutorial
+B001173,Lecture Hall B,2026-02-18,10:00,11:00,Lecture
+B001174,Lecture Hall B,2026-02-18,12:00,14:00,Lecture
+B001175,Lecture Hall B,2026-02-18,08:00,09:00,Lecture
+B001176,Smart Classroom 1,2026-02-18,15:00,16:00,Tutorial
+B001177,Smart Classroom 1,2026-02-18,17:00,19:00,Lecture
+B001178,Smart Classroom 1,2026-02-18,10:00,11:00,Workshop
+B001179,Computer Lab 1,2026-02-18,12:00,13:00,Practical
+B001180,Computer Lab 1,2026-02-18,08:00,10:00,Lab Session
+B001181,Computer Lab 2,2026-02-18,08:00,09:00,Project Work
+B001182,Electronics Lab,2026-02-18,08:00,10:00,Lab Session
+B001183,Central Library,2026-02-18,15:00,17:00,Reading
+B001184,Central Library,2026-02-18,10:00,12:00,Reading
+B001185,Central Library,2026-02-18,16:00,19:00,Group Study
+B001186,Central Library,2026-02-18,15:00,17:00,Group Study
+B001187,Central Library,2026-02-18,10:00,11:00,Group Study
+B001188,Digital Library,2026-02-18,14:00,15:00,Group Study
+B001189,Digital Library,2026-02-18,12:00,14:00,Study
+B001190,Digital Library,2026-02-18,15:00,16:00,Group Study
+B001191,Digital Library,2026-02-18,15:00,17:00,Reading
+B001192,Digital Library,2026-02-18,11:00,14:00,Study
+B001193,Digital Library,2026-02-18,14:00,15:00,Group Study
+B001194,Digital Library,2026-02-18,09:00,11:00,Study
+B001195,Digital Library,2026-02-18,16:00,17:00,Reading
+B001196,Digital Library,2026-02-18,16:00,18:00,Reading
+B001197,Seminar Hall,2026-02-18,10:00,11:00,Workshop
+B001198,Seminar Hall,2026-02-18,12:00,13:00,Seminar
+B001199,Seminar Hall,2026-02-18,12:00,13:00,Seminar
+B001200,Cafeteria,2026-02-18,14:00,16:00,Dining
+B001201,Cafeteria,2026-02-18,14:00,15:00,Dining
+B001202,Auditorium,2026-02-18,12:00,14:00,Presentation
+B001203,Discussion Room,2026-02-18,09:00,12:00,Discussion
+B001204,Discussion Room,2026-02-18,13:00,14:00,Project Work
+B001205,Discussion Room,2026-02-18,14:00,16:00,Group Study
+B001206,Lecture Hall A,2026-02-19,12:00,13:00,Tutorial
+B001207,Lecture  Hall  A,2026-02-19,10:00,12:00,Workshop
+B001208,Lecture Hall A,2026-02-19,14:00,15:00,Tutorial
+B001209,Lecture Hall B,2026-02-19,12:00,14:00,Workshop
+B001210,Lecture Hall B,2026-02-19,08:00,09:00,Workshop
+B001211,Lecture Hall B,2026-02-19,09:00,10:00,Workshop
+B001212,Lecture Hall B,2026-02-19,16:00,18:00,Tutorial
+B001213,Lecture Hall B,2026-02-19,10:00,12:00,Lecture
+B001214,Smart Classroom 1,2026-02-19,14:00,15:00,Tutorial
+B001215,Smart Classroom 1,2026-02-19,10:00,12:00,Workshop
+B001216,Smart Classroom 1,2026-02-19,14:00,15:00,Tutorial
+B001217,Smart Classroom 1,2026-02-19,14:00,16:00,Tutorial
+B001218,Smart Classroom 1,2026-02-19,15:00,16:00,Tutorial
+B001219,Smart Classroom 1,2026-02-19,15:00,16:00,Workshop
+B001220,Smart Classroom 1,2026-02-19,13:00,14:00,Workshop
+B001221,Computer Lab 1,2026-02-19,14:00,15:00,Lab Session
+B001222,Computer Lab 1,2026-02-19,17:00,19:00,Lab Session
+B001223,Electronics Lab,2026-02-19,15:00,16:00,Lab Session
+B001224,Electronics Lab,2026-02-19,11:00,13:00,Practical
+B001225,Electronics Lab,2026-02-19,13:00,15:00,Project Work
+B001226,Electronics Lab,2026-02-19,16:00,17:00,Practical
+B001227,Central Library,2026-02-19,10:00,11:00,Reading
+B001228,Central Library,2026-02-19,08:00,09:00,Group Study
+B001229,Central Library,2026-02-19,10:00,11:00,Study
+B001230,Central Library,2026-02-19,10:00,13:00,Group Study
+B001231,Central Library,2026-02-19,11:00,12:00,Study
+B001232,Central Library,2026-02-19,12:00,14:00,Group Study
+B001233,Central Library,2026-02-19,16:00,17:00,Reading
+B001234,Digital Library,2026-02-19,08:00,09:00,Group Study
+B001235,Digital Library,2026-02-19,09:00,11:00,Reading
+B001236,Digital Library,2026-02-19,11:00,12:00,Group Study
+B001237,Digital Library,2026-02-19,14:00,16:00,Group Study
+B001238,Digital Library,2026-02-19,16:00,18:00,Reading
+B001239,Digital Library,2026-02-19,13:00,14:00,Reading
+B001240,Seminar Hall,2026-02-19,14:00,15:00,Seminar
+B001241,Seminar Hall,2026-02-19,08:00,11:00,Guest Lecture
+B001242,Seminar Hall,2026-02-19,10:00,12:00,
+B001243,Seminar Hall,2026-02-19,17:00,18:00,Seminar
+B001244,Cafeteria,2026-02-19,08:00,09:00,Club Meeting
+B001245,Discussion Room,2026-02-19,09:00,10:00,Discussion
+B001246,Discussion Room,2026-02-19,12:00,13:00,Project Work
+B001247,LECTURE HALL A,2026-02-20,08:00,09:00,Lecture
+B001248,Lecture Hall A,2026-02-20,16:00,18:00,Tutorial
+B001249,Lecture Hall A,2026-02-20,14:00,16:00,Lecture
+B001250,Lecture Hall A,2026-02-20,13:00,15:00,Workshop
+B001251,Lecture  Hall  A,2026-02-20,14:00,16:00,Tutorial
+B001252,Lecture Hall B,2026-02-20,08:00,09:00,Lecture
+B001253,Lecture Hall B,2026-02-20,14:00,17:00,Workshop
+B001254,Lecture Hall B,2026-02-20,12:00,13:00,Lecture
+B001255,Lecture Hall B,2026-02-20,15:00,16:00,Tutorial
+B001256,Smart Classroom 1,2026-02-20,15:00,16:00,Workshop
+B001257,Smart Classroom 1,2026-02-20,11:00,13:00,Lecture
+B001258,Smart Classroom 1,2026-02-20,16:00,17:00,Lecture
+B001259,Smart Classroom 1,2026-02-20,16:00,18:00,Tutorial
+B001260,Smart Classroom 1,2026-02-20,11:00,14:00,Tutorial
+B001261,Smart Classroom 1,2026-02-20,12:00,13:00,Tutorial
+B001262,Computer Lab 1,2026-02-20,09:00,11:00,Project Work
+B001263,Computer Lab 1,2026-02-20,13:00,16:00,Project Work
+B001264,Computer Lab 1,2026-02-20,12:00,13:00,Lab Session
+B001265,Computer Lab 2,2026-02-20,15:00,16:00,Project Work
+B001266,Electronics Lab,2026-02-20,11:00,12:00,Practical
+B001267,Electronics Lab,2026-02-20,11:00,12:00,Lab Session
+B001268,Electronics Lab,2026-02-20,13:00,15:00,Project Work
+B001269,Electronics  Lab,2026-02-20,15:00,16:00,Project Work
+B001270,Electronics Lab,2026-02-20,13:00,15:00,Lab Session
+B001271,Central Library,2026-02-20,09:00,10:00,Group Study
+B001272,CENTRAL LIBRARY,2026-02-20,11:00,13:00,Reading
+B001273,Digital Library,2026-02-20,08:00,10:00,Reading
+B001274,Digital Library,2026-02-20,10:00,12:00,Group Study
+B001275,Digital Library,2026-02-20,15:00,16:00,Reading
+B001276,Digital Library,2026-02-20,12:00,15:00,Study
+B001277,Digital Library,2026-02-20,11:00,13:00,Reading
+B001278,Digital Library,2026-02-20,11:00,12:00,Study
+B001279,Digital Library,2026-02-20,13:00,14:00,Study
+B001280,Digital Library,2026-02-20,14:00,16:00,Reading
+B001281,Seminar Hall,2026-02-20,13:00,15:00,Workshop
+B001282,Cafeteria,2026-02-20,14:00,15:00,Dining
+B001283,Cafeteria,2026-02-20,14:00,16:00,Student Activity
+B001284,Auditorium,2026-02-20,10:00,11:00,Cultural Program
+B001285,Discussion Room,2026-02-20,09:00,12:00,Group Study
+B001286,Discussion Room,2026-02-20,12:00,13:00,Project Work
+B001287,Lecture Hall B,2026-02-23,09:00,10:00,Lecture
+B001288,Lecture Hall B,2026-02-23,16:00,18:00,Workshop
+B001289,Lecture Hall B,2026-02-23,10:00,12:00,Workshop
+B001290,Lecture Hall B,2026-02-23,11:00,12:00,Lecture
+B001291,Lecture Hall B,2026-02-23,11:00,13:00,Tutorial
+B001292,Lecture Hall B,2026-02-23,10:00,11:00,Lecture
+B001293,Lecture Hall B,2026-02-23,09:00,10:00,Workshop
+B001294,Smart Classroom 1,2026-02-23,13:00,15:00,Tutorial
+B001295,Smart Classroom 1,2026-02-23,11:00,12:00,Lecture
+B001296,Smart Classroom 1,2026-02-23,08:00,09:00,Lecture
+B001297,Smart Classroom 1,2026-02-23,08:00,10:00,Tutorial
+B001298,Computer Lab 1,2026-02-23,13:00,15:00,Practical
+B001299,Computer Lab 1,2026-02-23,10:00,11:00,Lab Session
+B001300,Computer Lab 1,2026-02-23,08:00,10:00,Lab Session
+B001301,Computer Lab 1,2026-02-23,12:00,14:00,Lab Session
+B001302,Computer Lab 2,2026-02-23,14:00,16:00,Lab Session
+B001303,Computer Lab 2,2026-02-23,13:00,14:00,Practical
+B001304,Computer Lab 2,2026-02-23,15:00,16:00,Practical
+B001305,Computer Lab 2,2026-02-23,09:00,10:00,Project Work
+B001306,Computer Lab 2,2026-02-23,17:00,18:00,Lab Session
+B001307,Computer Lab 2,2026-02-23,14:00,16:00,Project Work
+B001308,Computer Lab 2,2026-02-23,13:00,14:00,Project Work
+B001309,Electronics Lab,2026-02-23,14:00,16:00,Practical
+B001310,Electronics Lab,2026-02-23,16:00,18:00,Practical
+B001311,Electronics Lab,2026-02-23,13:00,15:00,Practical
+B001312,Central Library,2026-02-23,11:00,12:00,Study
+B001313,Central Library,2026-02-23,09:00,11:00,Reading
+B001314,Central Library,2026-02-23,11:00,12:00,Group Study
+B001315,Central Library,2026-02-23,08:00,10:00,Reading
+B001316,Central Library,2026-02-23,14:00,17:00,Reading
+B001317,Digital Library,2026-02-23,08:00,09:00,Study
+B001318,Digital Library,2026-02-23,16:00,17:00,Group Study
+B001319,Digital Library,2026-02-23,14:00,15:00,Reading
+B001320,Digital Library,2026-02-23,14:00,16:00,Study
+B001321,SEMINAR HALL,2026-02-23,15:00,16:00,Seminar
+B001322,Cafeteria,2026-02-23,17:00,18:00,Dining
+B001323,Auditorium,2026-02-23,08:00,09:00,Cultural Program
+B001324,Discussion Room,2026-02-23,12:00,14:00,Project Work
+B001325,Discussion Room,2026-02-23,16:00,17:00,Project Work
+B001326,Discussion Room,2026-02-23,09:00,10:00,Project Work
+B001327,Lecture Hall A,2026-02-24,10:00,13:00,Workshop
+B001328,Lecture Hall A,2026-02-24,10:00,11:00,Lecture
+B001329,Lecture Hall A,2026-02-24,10:00,11:00,Tutorial
+B001330,Lecture Hall A,2026-02-24,11:00,13:00,Tutorial
+B001331,LECTURE HALL A,2026-02-24,11:00,12:00,Workshop
+B001332,Lecture Hall B,2026-02-24,11:00,13:00,Workshop
+B001333,Smart Classroom 1,2026-02-24,12:00,14:00,Lecture
+B001334,Smart Classroom 1,2026-02-24,17:00,18:00,Lecture
+B001335,Smart Classroom 1,2026-02-24,15:00,17:00,Tutorial
+B001336,Smart Classroom 1,2026-02-24,14:00,16:00,Tutorial
+B001337,Computer Lab 1,2026-02-24,14:00,15:00,Project Work
+B001338,Computer Lab 1,2026-02-24,10:00,11:00,Lab Session
+B001339,Computer Lab 1,2026-02-24,13:00,14:00,Project Work
+B001340,Computer Lab 1,2026-02-24,13:00,15:00,Lab Session
+B001341,Computer Lab 2,2026-02-24,14:00,15:00,Project Work
+B001342,Computer Lab 2,2026-02-24,08:00,11:00,Lab Session
+B001343,Computer Lab 2,2026-02-24,17:00,18:00,Lab Session
+B001344,Computer Lab 2,2026-02-24,10:00,11:00,Lab Session
+B001345,Computer Lab 2,2026-02-24,11:00,12:00,Practical
+B001346,Computer Lab 2,2026-02-24,10:00,12:00,Lab Session
+B001347,Electronics Lab,2026-02-24,15:00,17:00,Lab Session
+B001348,Electronics Lab,2026-02-24,14:00,16:00,Practical
+B001349,Central Library,2026-02-24,11:00,13:00,Study
+B001350,Central Library,2026-02-24,11:00,13:00,Group Study
+B001351,Central Library,2026-02-24,08:00,09:00,Reading
+B001352,CENTRAL LIBRARY,2026-02-24,13:00,14:00,Group Study
+B001353,Central Library,2026-02-24,09:00,12:00,Reading
+B001354,Central Library,2026-02-24,10:00,11:00,Group Study
+B001355,Central Library,2026-02-24,08:00,09:00,Reading
+B001356,Central Library,2026-02-24,09:00,11:00,Group Study
+B001357,Digital Library,2026-02-24,11:00,12:00,Study
+B001358,Digital Library,2026-02-24,11:00,13:00,Reading
+B001359,Digital Library,2026-02-24,13:00,14:00,Group Study
+B001360,Digital Library,2026-02-24,13:00,15:00,Group Study
+B001361,Digital Library,2026-02-24,14:00,15:00,Study
+B001362,Digital Library,2026-02-24,09:00,11:00,Reading
+B001363,Digital Library,2026-02-24,09:00,10:00,Reading
+B001364,Digital Library,2026-02-24,17:00,18:00,Reading
+B001365,Cafeteria,2026-02-24,13:00,14:00,Student Activity
+B001366,Cafeteria,2026-02-24,12:00,15:00,Club Meeting
+B001367,Cafeteria,2026-02-24,15:00,17:00,Club Meeting
+B001368,Cafeteria,2026-02-24,15:00,17:00,Dining
+B001369,Cafeteria,2026-02-24,11:00,13:00,Dining
+B001370,Auditorium,2026-02-24,13:00,14:00,Event
+B001371,DISCUSSION ROOM,2026-02-24,15:00,18:00,Discussion
+B001372,Discussion Room,2026-02-24,10:00,12:00,Project Work
+B001373,Discussion Room,2026-02-24,13:00,15:00,Group Study
+B001374,Lecture Hall A,2026-02-25,09:00,12:00,Workshop
+B001375,Lecture Hall B,2026-02-25,11:00,12:00,Lecture
+B001376,Lecture Hall B,2026-02-25,13:00,16:00,Workshop
+B001377,Smart Classroom 1,2026-02-25,08:00,10:00,Tutorial
+B001378,Smart Classroom 1,2026-02-25,11:00,12:00,Workshop
+B001379,Smart Classroom 1,2026-02-25,10:00,11:00,Workshop
+B001380,Smart Classroom 1,2026-02-25,11:00,12:00,Workshop
+B001381,Smart Classroom 1,2026-02-25,11:00,14:00,Workshop
+B001382,Smart Classroom 1,2026-02-25,17:00,18:00,Lecture
+B001383,Smart Classroom 1,2026-02-25,10:00,12:00,Workshop
+B001384,Computer Lab 1,2026-02-25,16:00,18:00,Practical
+B001385,Computer Lab 1,2026-02-25,08:00,09:00,Project Work
+B001386,Computer Lab 1,2026-02-25,12:00,13:00,Project Work
+B001387,Computer Lab 1,2026-02-25,09:00,12:00,Practical
+B001388,Computer Lab 2,2026-02-25,10:00,12:00,Lab Session
+B001389,Computer Lab 2,2026-02-25,16:00,18:00,Lab Session
+B001390,Electronics Lab,2026-02-25,15:00,17:00,Practical
+B001391,Electronics Lab,2026-02-25,09:00,10:00,Project Work
+B001392,Electronics Lab,2026-02-25,11:00,12:00,Lab Session
+B001393,Electronics Lab,2026-02-25,08:00,09:00,Project Work
+B001394,CENTRAL LIBRARY,2026-02-25,10:00,11:00,Study
+B001395,Digital Library,2026-02-25,10:00,11:00,Study
+B001396,Digital Library,2026-02-25,08:00,11:00,Group Study
+B001397,Digital Library,2026-02-25,10:00,12:00,Group Study
+B001398,Digital Library,2026-02-25,13:00,15:00,Reading
+B001399,Digital Library,2026-02-25,15:00,16:00,Group Study
+B001400,Digital Library,2026-02-25,09:00,10:00,Study
+B001401,Digital Library,2026-02-25,09:00,12:00,Study
+B001402,Digital Library,2026-02-25,16:00,18:00,Study
+B001403,Lecture Hall A,2026-02-26,08:00,10:00,Workshop
+B001404,Lecture Hall A,2026-02-26,12:00,13:00,Tutorial
+B001405,Lecture Hall A,2026-02-26,11:00,13:00,Workshop
+B001406,Lecture Hall A,2026-02-26,14:00,16:00,Workshop
+B001407,Lecture Hall A,2026-02-26,12:00,14:00,Tutorial
+B001408,Lecture Hall A,2026-02-26,16:00,17:00,Lecture
+B001409,Lecture Hall B,2026-02-26,12:00,13:00,Tutorial
+B001410,Lecture Hall B,2026-02-26,10:00,11:00,Tutorial
+B001411,Lecture Hall B,2026-02-26,16:00,18:00,Tutorial
+B001412,LECTURE HALL B,2026-02-26,15:00,16:00,Workshop
+B001413,Smart Classroom 1,2026-02-26,16:00,19:00,Tutorial
+B001414,Computer Lab 1,2026-02-26,08:00,09:00,Practical
+B001415,Computer Lab 1,2026-02-26,11:00,13:00,Lab Session
+B001416,Computer Lab 1,2026-02-26,15:00,17:00,Practical
+B001417,Computer Lab 1,2026-02-26,13:00,14:00,Practical
+B001418,Computer Lab 2,2026-02-26,08:00,09:00,Practical
+B001419,Computer Lab 2,2026-02-26,09:00,10:00,Project Work
+B001420,Computer Lab 2,2026-02-26,11:00,12:00,Project Work
+B001421,Computer Lab 2,2026-02-26,11:00,12:00,Project Work
+B001422,Electronics Lab,2026-02-26,10:00,13:00,Lab Session
+B001423,Electronics Lab,2026-02-26,17:00,19:00,Project Work
+B001424,Central Library,2026-02-26,08:00,10:00,Group Study
+B001425,Digital Library,2026-02-26,09:00,10:00,Study
+B001426,Digital Library,2026-02-26,08:00,10:00,Group Study
+B001427,Digital Library,2026-02-26,13:00,16:00,Study
+B001428,Digital Library,2026-02-26,08:00,11:00,Group Study
+B001429,Digital Library,2026-02-26,08:00,09:00,Reading
+B001430,Digital Library,2026-02-26,09:00,11:00,Study
+B001431,Digital Library,2026-02-26,09:00,12:00,Group Study
+B001432,Digital Library,2026-02-26,11:00,13:00,Group Study
+B001433,Seminar Hall,2026-02-26,14:00,15:00,Workshop
+B001434,Seminar Hall,2026-02-26,17:00,18:00,Workshop
+B001435,Cafeteria,2026-02-26,16:00,18:00,Club Meeting
+B001436,Cafeteria,2026-02-26,11:00,12:00,Dining
+B001437,Cafeteria,2026-02-26,14:00,16:00,Club Meeting
+B001438,Lecture Hall A,2026-02-27,16:00,18:00,Tutorial
+B001439,Lecture Hall A,2026-02-27,12:00,14:00,Workshop
+B001440,Lecture Hall B,2026-02-27,12:00,15:00,Tutorial
+B001441,Smart Classroom 1,2026-02-27,10:00,12:00,Lecture
+B001442,Computer Lab 2,2026-02-27,10:00,12:00,Project Work
+B001443,Computer Lab 2,2026-02-27,14:00,16:00,Practical
+B001444,Computer Lab 2,2026-02-27,13:00,14:00,Lab Session
+B001445,Electronics Lab,2026-02-27,14:00,15:00,Practical
+B001446,Electronics Lab,2026-02-27,17:00,18:00,Project Work
+B001447,Central Library,2026-02-27,15:00,16:00,Reading
+B001448,Central Library,2026-02-27,11:00,12:00,Group Study
+B001449,Central Library,2026-02-27,10:00,11:00,Reading
+B001450,Central Library,2026-02-27,15:00,16:00,Study
+B001451,Central Library,2026-02-27,12:00,14:00,Reading
+B001452,Central Library,2026-02-27,12:00,13:00,Study
+B001453,Central Library,2026-02-27,14:00,15:00,Reading
+B001454,Central Library,2026-02-27,10:00,11:00,Group Study
+B001455,Central Library,2026-02-27,15:00,17:00,Reading
+B001456,Central Library,2026-02-27,15:00,16:00,Group Study
+B001457,Digital Library,2026-02-27,13:00,14:00,Reading
+B001458,Digital Library,2026-02-27,15:00,16:00,Group Study
+B001459,Digital Library,2026-02-27,09:00,10:00,Study
+B001460,Digital Library,2026-02-27,15:00,18:00,Study
+B001461,Seminar Hall,2026-02-27,10:00,12:00,Seminar
+B001462,Cafeteria,2026-02-27,08:00,09:00,Student Activity
+B001463,Cafeteria,2026-02-27,16:00,17:00,Dining
+B001464,Cafeteria,2026-02-27,08:00,10:00,Dining
+B001465,Cafeteria,2026-02-27,14:00,15:00,Student Activity
+B001466,Auditorium,2026-02-27,11:00,12:00,Event
+B001467,Discussion Room,2026-02-27,10:00,11:00,Group Study
+B001468,Discussion Room,2026-02-27,15:00,17:00,Discussion
+B001469,Discussion Room,2026-02-27,12:00,13:00,Group Study
+B001470,Lecture Hall A,2026-03-02,09:00,11:00,Tutorial
+B001471,Lecture Hall A,2026-03-02,10:00,12:00,Tutorial
+B001472,Lecture Hall A,2026-03-02,16:00,17:00,Tutorial
+B001473,Lecture Hall A,2026-03-02,14:00,15:00,Workshop
+B001474,Lecture Hall B,2026-03-02,10:00,13:00,Workshop
+B001475,Lecture Hall B,2026-03-02,09:00,11:00,Workshop
+B001476,Lecture Hall B,2026-03-02,14:00,15:00,Workshop
+B001477,Lecture Hall B,2026-03-02,10:00,11:00,Tutorial
+B001478,Lecture Hall B,2026-03-02,10:00,12:00,Workshop
+B001479,Lecture Hall B,2026-03-02,13:00,14:00,Workshop
+B001480,Smart Classroom 1,2026-03-02,15:00,17:00,Workshop
+B001481,Smart Classroom 1,2026-03-02,15:00,16:00,Lecture
+B001482,Smart Classroom 1,2026-03-02,14:00,16:00,Tutorial
+B001483,Computer Lab 1,2026-03-02,09:00,11:00,Project Work
+B001484,Computer Lab 1,2026-03-02,08:00,09:00,Practical
+B001485,Computer Lab 1,2026-03-02,09:00,11:00,Lab Session
+B001486,Computer Lab 2,2026-03-02,10:00,12:00,Project Work
+B001487,Computer Lab 2,2026-03-02,10:00,11:00,Lab Session
+B001488,Electronics Lab,2026-03-02,09:00,10:00,Lab Session
+B001489,Electronics Lab,2026-03-02,08:00,11:00,Practical
+B001490,Central Library,2026-03-02,17:00,18:00,Reading
+B001491,Central Library,2026-03-02,16:00,19:00,Group Study
+B001492,Central Library,2026-03-02,16:00,17:00,Study
+B001493,Central Library,2026-03-02,15:00,17:00,Group Study
+B001494,CENTRAL LIBRARY,2026-03-02,09:00,10:00,Group Study
+B001495,Central Library,2026-03-02,14:00,15:00,Study
+B001496,Central Library,2026-03-02,09:00,11:00,Group Study
+B001497,Central Library,2026-03-02,10:00,11:00,Study
+B001498,Digital Library,2026-03-02,16:00,18:00,Reading
+B001499,Digital Library,2026-03-02,08:00,10:00,Group Study
+B001500,Digital Library,2026-03-02,10:00,11:00,Reading
+B001501,Digital Library,2026-03-02,10:00,12:00,Reading
+B001502,Digital Library,2026-03-02,15:00,16:00,Group Study
+B001503,Digital Library,2026-03-02,08:00,10:00,Study
+B001504,Digital Library,2026-03-02,08:00,10:00,Group Study
+B001505,Seminar Hall,2026-03-02,11:00,13:00,Guest Lecture
+B001506,Seminar Hall,2026-03-02,14:00,15:00,Seminar
+B001507,Cafeteria,2026-03-02,15:00,16:00,Student Activity
+B001508,Cafeteria,2026-03-02,12:00,13:00,Dining
+B001509,Cafeteria,2026-03-02,16:00,17:00,Student Activity
+B001510,Cafeteria,2026-03-02,14:00,16:00,Club Meeting
+B001511,Discussion Room,2026-03-02,10:00,12:00,Group Study
+B001512,Discussion Room,2026-03-02,13:00,14:00,Discussion
+B001513,Discussion Room,2026-03-02,11:00,12:00,Discussion
+B001514,Discussion Room,2026-03-02,14:00,17:00,Discussion
+B001515,Lecture Hall A,2026-03-03,15:00,16:00,Lecture
+B001516,Lecture Hall A,2026-03-03,15:00,16:00,Lecture
+B001517,Lecture Hall A,2026-03-03,11:00,14:00,Tutorial
+B001518,Lecture Hall B,2026-03-03,10:00,12:00,Lecture
+B001519,Lecture Hall B,2026-03-03,10:00,12:00,Lecture
+B001520,Lecture Hall B,2026-03-03,09:00,10:00,Workshop
+B001521,Lecture Hall B,2026-03-03,17:00,18:00,Lecture
+B001522,Lecture  Hall  B,2026-03-03,11:00,14:00,Lecture
+B001523,Lecture Hall B,2026-03-03,10:00,13:00,Workshop
+B001524,Lecture Hall B,2026-03-03,13:00,14:00,Lecture
+B001525,Lecture Hall B,2026-03-03,15:00,18:00,Workshop
+B001526,Lecture Hall B,2026-03-03,09:00,10:00,Lecture
+B001527,Smart Classroom 1,2026-03-03,12:00,13:00,Lecture
+B001528,Smart Classroom 1,2026-03-03,09:00,11:00,Tutorial
+B001529,Smart Classroom 1,2026-03-03,08:00,09:00,Lecture
+B001530,Computer Lab 1,2026-03-03,16:00,18:00,Project Work
+B001531,Computer Lab 1,2026-03-03,13:00,14:00,Practical
+B001532,Computer Lab 2,2026-03-03,16:00,17:00,Lab Session
+B001533,Computer Lab 2,2026-03-03,13:00,14:00,Practical
+B001534,Computer Lab 2,2026-03-03,15:00,17:00,Practical
+B001535,Electronics Lab,2026-03-03,14:00,15:00,Project Work
+B001536,Central Library,2026-03-03,15:00,16:00,Group Study
+B001537,Central Library,2026-03-03,13:00,15:00,Study
+B001538,Central Library,2026-03-03,15:00,16:00,Study
+B001539,Central Library,2026-03-03,11:00,13:00,Reading
+B001540,Central Library,2026-03-03,11:00,13:00,Study
+B001541,Digital Library,2026-03-03,16:00,18:00,Study
+B001542,Digital Library,2026-03-03,11:00,12:00,Study
+B001543,Digital Library,2026-03-03,08:00,09:00,Group Study
+B001544,Digital Library,2026-03-03,11:00,13:00,Study
+B001545,Digital Library,2026-03-03,15:00,16:00,Reading
+B001546,Digital Library,2026-03-03,12:00,14:00,Group Study
+B001547,Auditorium,2026-03-03,13:00,14:00,Event
+B001548,Discussion Room,2026-03-03,17:00,19:00,Group Study
+B001549,Discussion Room,2026-03-03,08:00,10:00,Project Work
+B001550,Discussion Room,2026-03-03,15:00,16:00,Group Study
+B001551,Lecture Hall A,2026-03-04,09:00,12:00,Lecture
+B001552,Lecture Hall A,2026-03-04,10:00,13:00,
+B001553,Lecture Hall A,2026-03-04,09:00,12:00,Tutorial
+B001554,Lecture Hall B,2026-03-04,16:00,19:00,Workshop
+B001555,Smart Classroom 1,2026-03-04,08:00,09:00,Lecture
+B001556,Computer Lab 1,2026-03-04,10:00,12:00,Project Work
+B001557,Computer Lab 1,2026-03-04,13:00,14:00,Practical
+B001558,Computer Lab 1,2026-03-04,16:00,18:00,Lab Session
+B001559,Computer Lab 2,2026-03-04,12:00,13:00,Lab Session
+B001560,Computer Lab 2,2026-03-04,10:00,11:00,Lab Session
+B001561,Electronics Lab,2026-03-04,12:00,13:00,Project Work
+B001562,Electronics Lab,2026-03-04,16:00,17:00,Project Work
+B001563,ELECTRONICS LAB,2026-03-04,16:00,17:00,Practical
+B001564,Electronics Lab,2026-03-04,14:00,15:00,Lab Session
+B001565,Digital Library,2026-03-04,14:00,16:00,Reading
+B001566,Digital Library,2026-03-04,16:00,17:00,Study
+B001567,Digital Library,2026-03-04,10:00,12:00,Reading
+B001568,Digital Library,2026-03-04,10:00,11:00,Study
+B001569,Digital Library,2026-03-04,08:00,11:00,Reading
+B001570,Digital Library,2026-03-04,14:00,16:00,Reading
+B001571,Cafeteria,2026-03-04,10:00,12:00,Club Meeting
+B001572,Cafeteria,2026-03-04,11:00,13:00,Dining
+B001573,Discussion Room,2026-03-04,09:00,10:00,Project Work
+B001574,Discussion Room,2026-03-04,16:00,18:00,Discussion
+B001575,Discussion Room,2026-03-04,15:00,17:00,Group Study
+B001576,Lecture Hall A,2026-03-05,16:00,17:00,Lecture
+B001577,Lecture Hall B,2026-03-05,09:00,10:00,Tutorial
+B001578,Lecture Hall B,2026-03-05,11:00,13:00,Tutorial
+B001579,Lecture Hall B,2026-03-05,15:00,16:00,Tutorial
+B001580,Smart Classroom 1,2026-03-05,09:00,10:00,Workshop
+B001581,Smart Classroom 1,2026-03-05,11:00,13:00,Lecture
+B001582,Computer Lab 1,2026-03-05,13:00,15:00,Lab Session
+B001583,Computer Lab 1,2026-03-05,15:00,16:00,Project Work
+B001584,Computer Lab 2,2026-03-05,14:00,15:00,Lab Session
+B001585,Computer Lab 2,2026-03-05,09:00,11:00,Practical
+B001586,Computer Lab 2,2026-03-05,10:00,11:00,Practical
+B001587,Computer Lab 2,2026-03-05,13:00,16:00,Lab Session
+B001588,Computer Lab 2,2026-03-05,15:00,16:00,Project Work
+B001589,Computer Lab 2,2026-03-05,08:00,09:00,Practical
+B001590,Electronics Lab,2026-03-05,14:00,15:00,Practical
+B001591,Electronics Lab,2026-03-05,15:00,16:00,Practical
+B001592,Electronics Lab,2026-03-05,09:00,11:00,Lab Session
+B001593,Electronics Lab,2026-03-05,09:00,12:00,Project Work
+B001594,Electronics Lab,2026-03-05,16:00,18:00,Project Work
+B001595,Central Library,2026-03-05,11:00,13:00,Reading
+B001596,Central Library,2026-03-05,10:00,11:00,
+B001597,CENTRAL LIBRARY,2026-03-05,10:00,12:00,Reading
+B001598,Central Library,2026-03-05,09:00,11:00,Group Study
+B001599,Central Library,2026-03-05,15:00,18:00,Group Study
+B001600,Central Library,2026-03-05,14:00,15:00,Reading
+B001601,Central Library,2026-03-05,16:00,18:00,Reading
+B001602,CENTRAL LIBRARY,2026-03-05,16:00,18:00,Group Study
+B001603,Central Library,2026-03-05,08:00,10:00,Group Study
+B001604,Digital Library,2026-03-05,12:00,13:00,Reading
+B001605,Digital Library,2026-03-05,13:00,16:00,Reading
+B001606,Digital Library,2026-03-05,09:00,11:00,Group Study
+B001607,Digital Library,2026-03-05,11:00,12:00,Study
+B001608,Digital Library,2026-03-05,14:00,16:00,Reading
+B001609,Digital Library,2026-03-05,08:00,09:00,Study
+B001610,CAFETERIA,2026-03-05,10:00,11:00,Club Meeting
+B001611,Cafeteria,2026-03-05,10:00,13:00,Club Meeting
+B001612,Discussion Room,2026-03-05,15:00,17:00,Discussion
+B001613,Discussion Room,2026-03-05,14:00,16:00,Discussion
+B001614,Discussion Room,2026-03-05,10:00,11:00,Group Study
+B001615,Discussion Room,2026-03-05,11:00,12:00,Project Work
+B001616,Lecture Hall A,2026-03-06,10:00,12:00,Tutorial
+B001617,LECTURE HALL A,2026-03-06,11:00,13:00,Lecture
+B001618,Lecture Hall A,2026-03-06,15:00,16:00,Tutorial
+B001619,Lecture Hall A,2026-03-06,12:00,14:00,Tutorial
+B001620,Lecture Hall A,2026-03-06,15:00,16:00,Tutorial
+B001621,Lecture Hall A,2026-03-06,14:00,16:00,Tutorial
+B001622,Lecture Hall A,2026-03-06,12:00,13:00,Tutorial
+B001623,Lecture Hall A,2026-03-06,14:00,15:00,Workshop
+B001624,Lecture Hall B,2026-03-06,14:00,16:00,Lecture
+B001625,Lecture Hall B,2026-03-06,13:00,15:00,Tutorial
+B001626,Smart Classroom 1,2026-03-06,08:00,09:00,Tutorial
+B001627,Smart  Classroom  1,2026-03-06,15:00,16:00,Tutorial
+B001628,Smart Classroom 1,2026-03-06,13:00,14:00,Workshop
+B001629,SMART CLASSROOM 1,2026-03-06,11:00,13:00,Tutorial
+B001630,Smart Classroom 1,2026-03-06,10:00,13:00,Tutorial
+B001631,Computer Lab 1,2026-03-06,12:00,14:00,Practical
+B001632,Computer Lab 1,2026-03-06,17:00,18:00,Project Work
+B001633,Computer Lab 1,2026-03-06,09:00,10:00,Lab Session
+B001634,Computer Lab 2,2026-03-06,08:00,10:00,Practical
+B001635,Computer Lab 2,2026-03-06,13:00,15:00,Practical
+B001636,Computer Lab 2,2026-03-06,17:00,18:00,Practical
+B001637,Electronics Lab,2026-03-06,13:00,15:00,Practical
+B001638,Electronics Lab,2026-03-06,09:00,11:00,Lab Session
+B001639,Electronics  Lab,2026-03-06,15:00,16:00,Practical
+B001640,Electronics Lab,2026-03-06,08:00,10:00,Project Work
+B001641,Central Library,2026-03-06,10:00,12:00,Reading
+B001642,Central Library,2026-03-06,12:00,13:00,Group Study
+B001643,DIGITAL LIBRARY,2026-03-06,15:00,17:00,Study
+B001644,Digital Library,2026-03-06,08:00,09:00,Reading
+B001645,Digital Library,2026-03-06,08:00,10:00,Study
+B001646,Seminar Hall,2026-03-06,16:00,19:00,Workshop
+B001647,Cafeteria,2026-03-06,11:00,12:00,Club Meeting
+B001648,Cafeteria,2026-03-06,12:00,13:00,Club Meeting
+B001649,Discussion Room,2026-03-06,14:00,16:00,Project Work
+B001650,Lecture Hall A,2026-03-09,10:00,11:00,Workshop
+B001651,Lecture Hall A,2026-03-09,09:00,11:00,Lecture
+B001652,Lecture Hall A,2026-03-09,14:00,15:00,Tutorial
+B001653,Lecture Hall A,2026-03-09,17:00,19:00,Tutorial
+B001654,Lecture Hall A,2026-03-09,17:00,19:00,Workshop
+B001655,Lecture Hall A,2026-03-09,09:00,10:00,Tutorial
+B001656,Lecture Hall A,2026-03-09,10:00,12:00,Workshop
+B001657,Lecture Hall B,2026-03-09,13:00,14:00,Lecture
+B001658,Lecture Hall B,2026-03-09,15:00,16:00,Tutorial
+B001659,Lecture Hall B,2026-03-09,13:00,14:00,Workshop
+B001660,Smart Classroom 1,2026-03-09,09:00,10:00,Tutorial
+B001661,Smart Classroom 1,2026-03-09,08:00,10:00,Tutorial
+B001662,Computer Lab 1,2026-03-09,16:00,17:00,Practical
+B001663,Computer Lab 1,2026-03-09,14:00,16:00,Project Work
+B001664,Computer Lab 1,2026-03-09,16:00,17:00,Project Work
+B001665,Computer Lab 1,2026-03-09,13:00,14:00,Practical
+B001666,Computer Lab 1,2026-03-09,09:00,11:00,Practical
+B001667,Computer Lab 1,2026-03-09,14:00,15:00,Project Work
+B001668,Computer Lab 1,2026-03-09,13:00,15:00,Lab Session
+B001669,Computer Lab 1,2026-03-09,13:00,15:00,Practical
+B001670,Computer Lab 2,2026-03-09,13:00,15:00,Practical
+B001671,Electronics Lab,2026-03-09,10:00,11:00,Lab Session
+B001672,Electronics Lab,2026-03-09,08:00,09:00,Project Work
+B001673,Central Library,2026-03-09,14:00,15:00,Group Study
+B001674,Central Library,2026-03-09,14:00,15:00,Study
+B001675,CENTRAL LIBRARY,2026-03-09,16:00,18:00,Group Study
+B001676,Central Library,2026-03-09,12:00,13:00,Reading
+B001677,Digital Library,2026-03-09,11:00,12:00,Study
+B001678,Digital Library,2026-03-09,10:00,11:00,Group Study
+B001679,Digital Library,2026-03-09,15:00,16:00,Reading
+B001680,Digital Library,2026-03-09,11:00,13:00,Reading
+B001681,Digital Library,2026-03-09,11:00,12:00,Reading
+B001682,Cafeteria,2026-03-09,15:00,17:00,Club Meeting
+B001683,Cafeteria,2026-03-09,08:00,09:00,Club Meeting
+B001684,Discussion Room,2026-03-09,13:00,14:00,Discussion
+B001685,Discussion  Room,2026-03-09,15:00,18:00,Group Study
+B001686,Lecture Hall A,2026-03-10,08:00,10:00,Workshop
+B001687,Lecture Hall A,2026-03-10,08:00,10:00,Workshop
+B001688,Lecture Hall A,2026-03-10,10:00,11:00,Workshop
+B001689,Lecture Hall B,2026-03-10,13:00,14:00,Tutorial
+B001690,Lecture Hall B,2026-03-10,13:00,14:00,Lecture
+B001691,Lecture Hall B,2026-03-10,10:00,13:00,Lecture
+B001692,Lecture Hall B,2026-03-10,11:00,13:00,Tutorial
+B001693,Smart Classroom 1,2026-03-10,16:00,18:00,Workshop
+B001694,Computer Lab 1,2026-03-10,17:00,18:00,Lab Session
+B001695,Computer Lab 1,2026-03-10,09:00,10:00,Lab Session
+B001696,Computer Lab 1,2026-03-10,16:00,18:00,Lab Session
+B001697,Computer Lab 1,2026-03-10,13:00,15:00,Practical
+B001698,Computer Lab 1,2026-03-10,08:00,09:00,Practical
+B001699,Computer Lab 2,2026-03-10,11:00,13:00,Practical
+B001700,Computer Lab 2,2026-03-10,17:00,19:00,Project Work
+B001701,Electronics  Lab,2026-03-10,12:00,14:00,Project Work
+B001702,Electronics Lab,2026-03-10,08:00,09:00,Lab Session
+B001703,Electronics Lab,2026-03-10,16:00,17:00,Practical
+B001704,Electronics Lab,2026-03-10,13:00,14:00,Practical
+B001705,Electronics Lab,2026-03-10,09:00,10:00,Project Work
+B001706,Electronics Lab,2026-03-10,08:00,09:00,Project Work
+B001707,Central Library,2026-03-10,15:00,17:00,Study
+B001708,Central Library,2026-03-10,15:00,16:00,Study
+B001709,Central Library,2026-03-10,13:00,15:00,Reading
+B001710,Central Library,2026-03-10,10:00,12:00,Reading
+B001711,Central Library,2026-03-10,09:00,11:00,Study
+B001712,Central Library,2026-03-10,10:00,11:00,Group Study
+B001713,Central Library,2026-03-10,10:00,11:00,Group Study
+B001714,Central Library,2026-03-10,15:00,17:00,Group Study
+B001715,Central Library,2026-03-10,13:00,14:00,Group Study
+B001716,Digital Library,2026-03-10,14:00,16:00,Study
+B001717,Digital Library,2026-03-10,11:00,13:00,Group Study
+B001718,Digital Library,2026-03-10,11:00,12:00,Group Study
+B001719,Digital Library,2026-03-10,15:00,16:00,Reading
+B001720,Digital Library,2026-03-10,15:00,17:00,Group Study
+B001721,Digital Library,2026-03-10,11:00,13:00,Reading
+B001722,Digital Library,2026-03-10,13:00,14:00,Reading
+B001723,Seminar Hall,2026-03-10,13:00,14:00,Seminar
+B001724,Cafeteria,2026-03-10,11:00,14:00,Student Activity
+B001725,Cafeteria,2026-03-10,08:00,10:00,Student Activity
+B001726,Lecture Hall A,2026-03-11,16:00,17:00,Lecture
+B001727,Lecture Hall A,2026-03-11,11:00,12:00,Workshop
+B001728,Lecture Hall A,2026-03-11,13:00,14:00,Lecture
+B001729,Lecture Hall A,2026-03-11,09:00,10:00,Workshop
+B001730,Lecture Hall B,2026-03-11,09:00,11:00,Lecture
+B001731,Smart Classroom 1,2026-03-11,11:00,12:00,Tutorial
+B001732,Smart Classroom 1,2026-03-11,14:00,17:00,Tutorial
+B001733,Computer Lab 1,2026-03-11,12:00,13:00,Project Work
+B001734,Computer Lab 1,2026-03-11,13:00,14:00,Lab Session
+B001735,Computer Lab 1,2026-03-11,09:00,12:00,Lab Session
+B001736,Electronics Lab,2026-03-11,14:00,17:00,Project Work
+B001737,Electronics Lab,2026-03-11,09:00,10:00,Lab Session
+B001738,Electronics Lab,2026-03-11,17:00,19:00,Lab Session
+B001739,Central Library,2026-03-11,15:00,18:00,Group Study
+B001740,Central Library,2026-03-11,11:00,12:00,Study
+B001741,Central Library,2026-03-11,16:00,17:00,Reading
+B001742,Digital Library,2026-03-11,10:00,11:00,Study
+B001743,Digital Library,2026-03-11,11:00,13:00,Group Study
+B001744,Digital Library,2026-03-11,11:00,13:00,Group Study
+B001745,Digital Library,2026-03-11,10:00,12:00,Study
+B001746,Digital Library,2026-03-11,11:00,14:00,Group Study
+B001747,Seminar Hall,2026-03-11,14:00,15:00,Workshop
+B001748,Cafeteria,2026-03-11,16:00,18:00,Club Meeting
+B001749,Cafeteria,2026-03-11,15:00,16:00,Club Meeting
+B001750,Auditorium,2026-03-11,09:00,10:00,Presentation
+B001751,Auditorium,2026-03-11,13:00,14:00,Cultural Program
+B001752,Discussion Room,2026-03-11,09:00,10:00,Discussion
+B001753,Discussion Room,2026-03-11,13:00,14:00,Project Work
+B001754,Lecture Hall A,2026-03-12,12:00,14:00,Lecture
+B001755,Lecture Hall A,2026-03-12,13:00,14:00,Lecture
+B001756,Lecture Hall B,2026-03-12,14:00,15:00,Tutorial
+B001757,Lecture Hall B,2026-03-12,09:00,11:00,Workshop
+B001758,Lecture Hall B,2026-03-12,12:00,13:00,Lecture
+B001759,Lecture Hall B,2026-03-12,13:00,14:00,Lecture
+B001760,Smart Classroom 1,2026-03-12,08:00,09:00,Lecture
+B001761,Smart Classroom 1,2026-03-12,13:00,15:00,Tutorial
+B001762,Smart Classroom 1,2026-03-12,14:00,15:00,Lecture
+B001763,Smart Classroom 1,2026-03-12,11:00,13:00,Lecture
+B001764,Smart Classroom 1,2026-03-12,17:00,19:00,Tutorial
+B001765,Computer Lab 1,2026-03-12,14:00,15:00,Lab Session
+B001766,Computer Lab 1,2026-03-12,14:00,16:00,Lab Session
+B001767,Computer Lab 1,2026-03-12,14:00,17:00,Practical
+B001768,Computer Lab 2,2026-03-12,09:00,10:00,Practical
+B001769,Computer Lab 2,2026-03-12,16:00,17:00,Lab Session
+B001770,Electronics Lab,2026-03-12,13:00,15:00,Project Work
+B001771,Electronics Lab,2026-03-12,14:00,16:00,Lab Session
+B001772,Central Library,2026-03-12,14:00,16:00,Study
+B001773,Central Library,2026-03-12,10:00,13:00,Study
+B001774,Central Library,2026-03-12,11:00,13:00,Group Study
+B001775,Central Library,2026-03-12,08:00,09:00,Reading
+B001776,Central Library,2026-03-12,13:00,15:00,Reading
+B001777,Central Library,2026-03-12,14:00,16:00,Study
+B001778,Central Library,2026-03-12,13:00,14:00,Reading
+B001779,Central Library,2026-03-12,10:00,12:00,Reading
+B001780,Central Library,2026-03-12,13:00,16:00,Reading
+B001781,Digital Library,2026-03-12,16:00,17:00,Group Study
+B001782,Digital Library,2026-03-12,12:00,13:00,Study
+B001783,Digital Library,2026-03-12,13:00,16:00,Group Study
+B001784,Digital Library,2026-03-12,10:00,11:00,Reading
+B001785,Digital Library,2026-03-12,10:00,12:00,Study
+B001786,Seminar Hall,2026-03-12,08:00,09:00,Guest Lecture
+B001787,Cafeteria,2026-03-12,17:00,19:00,Student Activity
+B001788,Cafeteria,2026-03-12,13:00,14:00,Dining
+B001789,Cafeteria,2026-03-12,11:00,14:00,Student Activity
+B001790,Cafeteria,2026-03-12,09:00,10:00,Dining
+B001791,Cafeteria,2026-03-12,17:00,18:00,Club Meeting
+B001792,Discussion Room,2026-03-12,13:00,15:00,Project Work
+B001793,Lecture Hall A,2026-03-13,10:00,12:00,Workshop
+B001794,Lecture Hall A,2026-03-13,16:00,17:00,Tutorial
+B001795,Lecture Hall B,2026-03-13,12:00,13:00,Workshop
+B001796,Lecture Hall B,2026-03-13,09:00,11:00,Workshop
+B001797,Smart Classroom 1,2026-03-13,14:00,15:00,Tutorial
+B001798,Smart Classroom 1,2026-03-13,11:00,13:00,Tutorial
+B001799,Smart Classroom 1,2026-03-13,14:00,16:00,Lecture
+B001800,Smart Classroom 1,2026-03-13,16:00,17:00,Tutorial
+B001801,Smart Classroom 1,2026-03-13,09:00,10:00,Lecture
+B001802,Smart Classroom 1,2026-03-13,12:00,14:00,Tutorial
+B001803,Computer Lab 2,2026-03-13,15:00,16:00,Practical
+B001804,Computer Lab 2,2026-03-13,13:00,14:00,Project Work
+B001805,Computer Lab 2,2026-03-13,13:00,14:00,Lab Session
+B001806,Central Library,2026-03-13,10:00,12:00,Reading
+B001807,Central Library,2026-03-13,14:00,15:00,Group Study
+B001808,Central Library,2026-03-13,12:00,13:00,Study
+B001809,Central Library,2026-03-13,14:00,16:00,Group Study
+B001810,Central Library,2026-03-13,14:00,15:00,Study
+B001811,Digital Library,2026-03-13,11:00,12:00,Study
+B001812,Digital Library,2026-03-13,14:00,15:00,Group Study
+B001813,Digital Library,2026-03-13,14:00,16:00,Reading
+B001814,Digital Library,2026-03-13,11:00,14:00,Group Study
+B001815,Digital Library,2026-03-13,17:00,18:00,Reading
+B001816,Digital Library,2026-03-13,08:00,10:00,Study
+B001817,Digital Library,2026-03-13,10:00,12:00,Group Study
+B001818,Digital Library,2026-03-13,09:00,11:00,Group Study
+B001819,Seminar Hall,2026-03-13,11:00,13:00,Workshop
+B001820,Cafeteria,2026-03-13,16:00,17:00,Dining
+B001821,Cafeteria,2026-03-13,10:00,12:00,Student Activity
+B001822,Cafeteria,2026-03-13,17:00,19:00,Dining
+B001823,Cafeteria,2026-03-13,10:00,13:00,Student Activity
+B001824,Lecture  Hall  A,2026-03-16,16:00,17:00,Lecture
+B001825,Lecture Hall A,2026-03-16,15:00,17:00,Workshop
+B001826,Lecture Hall A,2026-03-16,11:00,12:00,Workshop
+B001827,Lecture Hall A,2026-03-16,13:00,14:00,Lecture
+B001828,Lecture Hall A,2026-03-16,09:00,10:00,Workshop
+B001829,Lecture Hall B,2026-03-16,14:00,17:00,Workshop
+B001830,Lecture Hall B,2026-03-16,15:00,16:00,Lecture
+B001831,Lecture Hall B,2026-03-16,08:00,09:00,Tutorial
+B001832,Smart Classroom 1,2026-03-16,14:00,17:00,Tutorial
+B001833,Computer Lab 1,2026-03-16,13:00,16:00,Project Work
+B001834,Computer Lab 1,2026-03-16,17:00,18:00,Project Work
+B001835,Computer Lab 1,2026-03-16,08:00,09:00,Practical
+B001836,Computer Lab 2,2026-03-16,15:00,17:00,Practical
+B001837,Computer Lab 2,2026-03-16,15:00,16:00,Practical
+B001838,Computer Lab 2,2026-03-16,10:00,11:00,Practical
+B001839,Electronics Lab,2026-03-16,10:00,12:00,Lab Session
+B001840,Electronics Lab,2026-03-16,10:00,11:00,Practical
+B001841,Central Library,2026-03-16,14:00,15:00,Study
+B001842,Central Library,2026-03-16,14:00,16:00,Reading
+B001843,Central Library,2026-03-16,14:00,15:00,Study
+B001844,Central Library,2026-03-16,10:00,11:00,Reading
+B001845,Central Library,2026-03-16,10:00,11:00,Study
+B001846,CENTRAL LIBRARY,2026-03-16,09:00,11:00,Study
+B001847,Digital Library,2026-03-16,08:00,10:00,Reading
+B001848,Digital Library,2026-03-16,10:00,12:00,Group Study
+B001849,Cafeteria,2026-03-16,17:00,18:00,Dining
+B001850,Cafeteria,2026-03-16,11:00,13:00,Club Meeting
+B001851,Cafeteria,2026-03-16,12:00,13:00,Club Meeting
+B001852,Cafeteria,2026-03-16,16:00,17:00,Dining
+B001853,Auditorium,2026-03-16,14:00,16:00,Cultural Program
+B001854,Discussion Room,2026-03-16,15:00,18:00,Discussion
+B001855,Lecture Hall A,2026-03-17,13:00,15:00,Workshop
+B001856,Lecture Hall A,2026-03-17,08:00,09:00,Workshop
+B001857,Lecture Hall B,2026-03-17,09:00,11:00,Workshop
+B001858,Smart  Classroom  1,2026-03-17,16:00,17:00,Tutorial
+B001859,Smart Classroom 1,2026-03-17,15:00,16:00,Workshop
+B001860,Smart Classroom 1,2026-03-17,15:00,17:00,Tutorial
+B001861,Computer Lab 1,2026-03-17,11:00,12:00,Practical
+B001862,Computer Lab 1,2026-03-17,11:00,12:00,Lab Session
+B001863,Computer Lab 1,2026-03-17,14:00,15:00,Practical
+B001864,Computer Lab 2,2026-03-17,16:00,18:00,Lab Session
+B001865,Electronics Lab,2026-03-17,14:00,15:00,Lab Session
+B001866,Electronics Lab,2026-03-17,13:00,15:00,Project Work
+B001867,Electronics Lab,2026-03-17,09:00,11:00,Lab Session
+B001868,Electronics Lab,2026-03-17,10:00,11:00,Lab Session
+B001869,Central Library,2026-03-17,08:00,09:00,Reading
+B001870,Central Library,2026-03-17,08:00,10:00,Study
+B001871,Central Library,2026-03-17,14:00,15:00,Group Study
+B001872,Central Library,2026-03-17,10:00,11:00,Reading
+B001873,Digital Library,2026-03-17,15:00,16:00,Study
+B001874,Digital Library,2026-03-17,08:00,11:00,Group Study
+B001875,Digital Library,2026-03-17,14:00,15:00,Group Study
+B001876,Digital Library,2026-03-17,11:00,12:00,Group Study
+B001877,DIGITAL LIBRARY,2026-03-17,09:00,12:00,Study
+B001878,Digital Library,2026-03-17,08:00,09:00,Study
+B001879,Seminar Hall,2026-03-17,09:00,12:00,Guest Lecture
+B001880,CAFETERIA,2026-03-17,09:00,10:00,Dining
+B001881,Cafeteria,2026-03-17,17:00,19:00,Student Activity
+B001882,Cafeteria,2026-03-17,15:00,17:00,Club Meeting
+B001883,Discussion Room,2026-03-17,09:00,10:00,Group Study
+B001884,Lecture Hall A,2026-03-18,14:00,16:00,Workshop
+B001885,Lecture Hall A,2026-03-18,10:00,11:00,Workshop
+B001886,Lecture Hall B,2026-03-18,08:00,09:00,Workshop
+B001887,Lecture Hall B,2026-03-18,13:00,15:00,Tutorial
+B001888,Lecture Hall B,2026-03-18,09:00,10:00,Tutorial
+B001889,Smart Classroom 1,2026-03-18,16:00,17:00,Workshop
+B001890,Computer Lab 1,2026-03-18,17:00,19:00,Project Work
+B001891,COMPUTER LAB 1,2026-03-18,12:00,14:00,Project Work
+B001892,Computer Lab 1,2026-03-18,12:00,14:00,Practical
+B001893,Computer Lab 2,2026-03-18,08:00,10:00,Lab Session
+B001894,Computer Lab 2,2026-03-18,09:00,10:00,Project Work
+B001895,Computer Lab 2,2026-03-18,17:00,19:00,Project Work
+B001896,Computer Lab 2,2026-03-18,08:00,10:00,Practical
+B001897,Computer Lab 2,2026-03-18,17:00,18:00,Lab Session
+B001898,Electronics Lab,2026-03-18,14:00,16:00,Project Work
+B001899,Electronics Lab,2026-03-18,14:00,15:00,Lab Session
+B001900,Electronics Lab,2026-03-18,16:00,18:00,Project Work
+B001901,Central Library,2026-03-18,09:00,11:00,Study
+B001902,Central Library,2026-03-18,08:00,11:00,Study
+B001903,Central Library,2026-03-18,17:00,19:00,Group Study
+B001904,Central Library,2026-03-18,13:00,14:00,Study
+B001905,Digital Library,2026-03-18,11:00,14:00,Group Study
+B001906,Digital Library,2026-03-18,10:00,11:00,Reading
+B001907,Digital  Library,2026-03-18,09:00,10:00,Study
+B001908,Digital Library,2026-03-18,16:00,17:00,Reading
+B001909,Digital Library,2026-03-18,09:00,10:00,Reading
+B001910,Digital Library,2026-03-18,10:00,12:00,Study
+B001911,Auditorium,2026-03-18,09:00,10:00,Event
+B001912,Lecture Hall A,2026-03-19,11:00,12:00,Lecture
+B001913,Lecture Hall A,2026-03-19,15:00,16:00,Workshop
+B001914,Lecture Hall A,2026-03-19,13:00,14:00,Tutorial
+B001915,Lecture Hall A,2026-03-19,16:00,18:00,Tutorial
+B001916,Lecture Hall B,2026-03-19,16:00,17:00,Workshop
+B001917,Lecture Hall B,2026-03-19,09:00,11:00,Workshop
+B001918,Smart Classroom 1,2026-03-19,08:00,09:00,Workshop
+B001919,Smart Classroom 1,2026-03-19,10:00,11:00,Lecture
+B001920,SMART CLASSROOM 1,2026-03-19,10:00,11:00,Tutorial
+B001921,Computer Lab 1,2026-03-19,13:00,15:00,Lab Session
+B001922,Computer Lab 1,2026-03-19,11:00,12:00,Lab Session
+B001923,Computer  Lab  2,2026-03-19,11:00,12:00,Lab Session
+B001924,Computer Lab 2,2026-03-19,13:00,15:00,Lab Session
+B001925,Central Library,2026-03-19,14:00,15:00,Group Study
+B001926,Central Library,2026-03-19,12:00,14:00,Reading
+B001927,Central Library,2026-03-19,15:00,16:00,Reading
+B001928,Central  Library,2026-03-19,11:00,12:00,Study
+B001929,Central Library,2026-03-19,10:00,11:00,Reading
+B001930,Central Library,2026-03-19,08:00,09:00,Reading
+B001931,Central Library,2026-03-19,15:00,18:00,Group Study
+B001932,Digital Library,2026-03-19,10:00,11:00,Study
+B001933,Digital Library,2026-03-19,10:00,12:00,Group Study
+B001934,Digital Library,2026-03-19,15:00,17:00,Study
+B001935,Digital Library,2026-03-19,09:00,11:00,Reading
+B001936,Digital Library,2026-03-19,17:00,19:00,Reading
+B001937,Digital Library,2026-03-19,16:00,17:00,Group Study
+B001938,Digital Library,2026-03-19,16:00,17:00,Group Study
+B001939,Digital Library,2026-03-19,14:00,16:00,Group Study
+B001940,Seminar Hall,2026-03-19,11:00,13:00,Workshop
+B001941,Cafeteria,2026-03-19,14:00,15:00,Club Meeting
+B001942,Cafeteria,2026-03-19,13:00,16:00,Club Meeting
+B001943,Cafeteria,2026-03-19,11:00,12:00,Student Activity
+B001944,Cafeteria,2026-03-19,15:00,17:00,Dining
+B001945,Cafeteria,2026-03-19,10:00,11:00,Student Activity
+B001946,Cafeteria,2026-03-19,11:00,13:00,Club Meeting
+B001947,LECTURE HALL A,2026-03-20,14:00,17:00,Workshop
+B001948,Lecture Hall A,2026-03-20,16:00,17:00,Lecture
+B001949,Lecture Hall A,2026-03-20,13:00,14:00,Tutorial
+B001950,Lecture Hall A,2026-03-20,12:00,14:00,Tutorial
+B001951,Lecture Hall A,2026-03-20,14:00,15:00,Workshop
+B001952,Lecture Hall B,2026-03-20,10:00,12:00,Workshop
+B001953,LECTURE HALL B,2026-03-20,17:00,18:00,Workshop
+B001954,Lecture Hall B,2026-03-20,09:00,10:00,Tutorial
+B001955,Lecture  Hall  B,2026-03-20,13:00,14:00,Lecture
+B001956,LECTURE HALL B,2026-03-20,14:00,16:00,Workshop
+B001957,Smart Classroom 1,2026-03-20,09:00,11:00,Workshop
+B001958,Smart Classroom 1,2026-03-20,13:00,15:00,Lecture
+B001959,Smart Classroom 1,2026-03-20,11:00,13:00,Tutorial
+B001960,Smart Classroom 1,2026-03-20,09:00,10:00,Workshop
+B001961,Smart Classroom 1,2026-03-20,10:00,12:00,Tutorial
+B001962,Computer Lab 1,2026-03-20,09:00,10:00,Project Work
+B001963,COMPUTER LAB 1,2026-03-20,12:00,13:00,Lab Session
+B001964,Computer Lab 2,2026-03-20,11:00,12:00,Practical
+B001965,Computer Lab 2,2026-03-20,09:00,11:00,Project Work
+B001966,Central Library,2026-03-20,16:00,19:00,Reading
+B001967,Central Library,2026-03-20,11:00,14:00,Reading
+B001968,Central Library,2026-03-20,08:00,10:00,Reading
+B001969,Central Library,2026-03-20,10:00,11:00,Reading
+B001970,Central Library,2026-03-20,09:00,10:00,Study
+B001971,Digital Library,2026-03-20,14:00,15:00,Reading
+B001972,Digital Library,2026-03-20,09:00,10:00,Reading
+B001973,Digital Library,2026-03-20,13:00,15:00,Group Study
+B001974,Digital Library,2026-03-20,08:00,09:00,Reading
+B001975,Digital Library,2026-03-20,16:00,19:00,Group Study
+B001976,Seminar Hall,2026-03-20,13:00,14:00,Seminar
+B001977,Cafeteria,2026-03-20,16:00,18:00,Dining
+B001978,Cafeteria,2026-03-20,14:00,16:00,Dining
+B001979,Cafeteria,2026-03-20,09:00,11:00,Student Activity
+B001980,CAFETERIA,2026-03-20,13:00,14:00,Student Activity
+B001981,Auditorium,2026-03-20,15:00,16:00,Presentation
+B001982,Discussion Room,2026-03-20,13:00,15:00,Project Work
+B001983,Lecture Hall A,2026-03-23,12:00,14:00,Lecture
+B001984,Lecture Hall B,2026-03-23,08:00,09:00,Lecture
+B001985,Lecture Hall B,2026-03-23,11:00,13:00,Lecture
+B001986,Lecture Hall B,2026-03-23,16:00,19:00,Lecture
+B001987,Smart Classroom 1,2026-03-23,12:00,15:00,Lecture
+B001988,Smart Classroom 1,2026-03-23,08:00,10:00,Tutorial
+B001989,Smart Classroom 1,2026-03-23,08:00,10:00,Lecture
+B001990,Smart Classroom 1,2026-03-23,12:00,14:00,Workshop
+B001991,Smart Classroom 1,2026-03-23,11:00,12:00,Workshop
+B001992,Computer Lab 1,2026-03-23,15:00,17:00,Project Work
+B001993,Computer Lab 1,2026-03-23,10:00,11:00,Project Work
+B001994,Computer Lab 1,2026-03-23,12:00,13:00,Practical
+B001995,Computer Lab 1,2026-03-23,13:00,16:00,Project Work
+B001996,Electronics Lab,2026-03-23,12:00,13:00,Lab Session
+B001997,Electronics Lab,2026-03-23,14:00,16:00,Project Work
+B001998,Electronics Lab,2026-03-23,09:00,10:00,Practical
+B001999,Electronics Lab,2026-03-23,14:00,15:00,Project Work
+B002000,Electronics Lab,2026-03-23,09:00,11:00,Lab Session
+B002001,Central Library,2026-03-23,08:00,10:00,Study
+B002002,Central Library,2026-03-23,10:00,13:00,Study
+B002003,Central Library,2026-03-23,08:00,11:00,Study
+B002004,Central Library,2026-03-23,10:00,12:00,Reading
+B002005,Central Library,2026-03-23,17:00,19:00,Reading
+B002006,Central Library,2026-03-23,15:00,16:00,Study
+B002007,Central Library,2026-03-23,11:00,13:00,Reading
+B002008,Central Library,2026-03-23,10:00,12:00,Group Study
+B002009,Central Library,2026-03-23,12:00,13:00,Study
+B002010,Digital Library,2026-03-23,09:00,10:00,Group Study
+B002011,Digital Library,2026-03-23,10:00,12:00,Group Study
+B002012,Digital Library,2026-03-23,12:00,14:00,Reading
+B002013,Digital Library,2026-03-23,12:00,14:00,Reading
+B002014,Seminar Hall,2026-03-23,15:00,17:00,Seminar
+B002015,Cafeteria,2026-03-23,10:00,12:00,Dining
+B002016,Cafeteria,2026-03-23,13:00,15:00,Club Meeting
+B002017,Discussion Room,2026-03-23,09:00,11:00,Project Work
+B002018,Lecture Hall A,2026-03-24,13:00,14:00,Workshop
+B002019,Lecture Hall A,2026-03-24,08:00,10:00,Tutorial
+B002020,Lecture Hall A,2026-03-24,08:00,09:00,Lecture
+B002021,Lecture Hall A,2026-03-24,14:00,16:00,Workshop
+B002022,Lecture Hall A,2026-03-24,12:00,13:00,Lecture
+B002023,Lecture Hall B,2026-03-24,14:00,15:00,Tutorial
+B002024,Lecture Hall B,2026-03-24,08:00,10:00,Tutorial
+B002025,Lecture Hall B,2026-03-24,12:00,14:00,Lecture
+B002026,Smart Classroom 1,2026-03-24,13:00,14:00,Tutorial
+B002027,Smart Classroom 1,2026-03-24,16:00,18:00,Workshop
+B002028,Smart Classroom 1,2026-03-24,10:00,12:00,Workshop
+B002029,Computer Lab 1,2026-03-24,08:00,09:00,Lab Session
+B002030,Computer Lab 1,2026-03-24,09:00,10:00,Lab Session
+B002031,Computer Lab 1,2026-03-24,14:00,15:00,Lab Session
+B002032,Computer Lab 2,2026-03-24,17:00,19:00,Lab Session
+B002033,Central Library,2026-03-24,09:00,10:00,Reading
+B002034,Central Library,2026-03-24,09:00,10:00,Reading
+B002035,Central Library,2026-03-24,13:00,15:00,Group Study
+B002036,Central Library,2026-03-24,10:00,13:00,Study
+B002037,Central Library,2026-03-24,10:00,12:00,Study
+B002038,Central Library,2026-03-24,14:00,16:00,Reading
+B002039,Digital Library,2026-03-24,13:00,15:00,Study
+B002040,Digital Library,2026-03-24,11:00,13:00,Group Study
+B002041,Digital Library,2026-03-24,14:00,15:00,Study
+B002042,Digital Library,2026-03-24,14:00,15:00,Reading
+B002043,Seminar Hall,2026-03-24,15:00,16:00,Guest Lecture
+B002044,Cafeteria,2026-03-24,12:00,13:00,Dining
+B002045,Discussion Room,2026-03-24,14:00,15:00,Discussion
+B002046,Discussion Room,2026-03-24,10:00,11:00,Group Study
+B002047,Discussion Room,2026-03-24,08:00,09:00,Discussion
+B002048,Lecture Hall A,2026-03-25,17:00,19:00,Workshop
+B002049,Lecture Hall A,2026-03-25,10:00,12:00,Lecture
+B002050,Lecture Hall A,2026-03-25,14:00,16:00,Tutorial
+B002051,Lecture Hall B,2026-03-25,10:00,11:00,Lecture
+B002052,Lecture Hall B,2026-03-25,14:00,17:00,Lecture
+B002053,Lecture Hall B,2026-03-25,08:00,09:00,Tutorial
+B002054,Smart Classroom 1,2026-03-25,14:00,15:00,Tutorial
+B002055,Smart Classroom 1,2026-03-25,14:00,16:00,Workshop
+B002056,Smart Classroom 1,2026-03-25,16:00,19:00,Lecture
+B002057,Computer Lab 1,2026-03-25,12:00,14:00,Lab Session
+B002058,Computer Lab 2,2026-03-25,13:00,16:00,Practical
+B002059,Electronics Lab,2026-03-25,09:00,11:00,Practical
+B002060,Electronics Lab,2026-03-25,16:00,18:00,Lab Session
+B002061,Electronics Lab,2026-03-25,11:00,14:00,Lab Session
+B002062,Electronics Lab,2026-03-25,15:00,16:00,Practical
+B002063,Central Library,2026-03-25,17:00,19:00,Group Study
+B002064,Central Library,2026-03-25,12:00,15:00,Study
+B002065,Central Library,2026-03-25,13:00,15:00,Group Study
+B002066,Central Library,2026-03-25,13:00,14:00,Reading
+B002067,Central Library,2026-03-25,12:00,14:00,Group Study
+B002068,Central Library,2026-03-25,09:00,10:00,Study
+B002069,Central Library,2026-03-25,09:00,12:00,Group Study
+B002070,Central Library,2026-03-25,13:00,15:00,Study
+B002071,Central Library,2026-03-25,15:00,17:00,Group Study
+B002072,Central Library,2026-03-25,13:00,15:00,Study
+B002073,Digital Library,2026-03-25,15:00,17:00,Study
+B002074,Digital Library,2026-03-25,13:00,14:00,Group Study
+B002075,Digital Library,2026-03-25,14:00,15:00,Study
+B002076,Digital  Library,2026-03-25,14:00,15:00,Reading
+B002077,Digital Library,2026-03-25,15:00,16:00,Reading
+B002078,Digital Library,2026-03-25,10:00,13:00,Group Study
+B002079,Digital Library,2026-03-25,16:00,17:00,Study
+B002080,Digital Library,2026-03-25,15:00,18:00,Study
+B002081,Cafeteria,2026-03-25,09:00,10:00,Student Activity
+B002082,Cafeteria,2026-03-25,10:00,12:00,Dining
+B002083,Cafeteria,2026-03-25,16:00,17:00,Dining
+B002084,Cafeteria,2026-03-25,10:00,11:00,Club Meeting
+B002085,Cafeteria,2026-03-25,16:00,17:00,Student Activity
+B002086,Auditorium,2026-03-25,15:00,16:00,Cultural Program
+B002087,Lecture Hall A,2026-03-26,14:00,15:00,Tutorial
+B002088,Lecture Hall A,2026-03-26,13:00,15:00,Tutorial
+B002089,Lecture Hall A,2026-03-26,10:00,12:00,Workshop
+B002090,Lecture Hall A,2026-03-26,15:00,16:00,Lecture
+B002091,Lecture Hall A,2026-03-26,11:00,13:00,Lecture
+B002092,Lecture Hall B,2026-03-26,11:00,12:00,Lecture
+B002093,Lecture Hall B,2026-03-26,11:00,13:00,Tutorial
+B002094,Lecture Hall B,2026-03-26,11:00,12:00,Lecture
+B002095,Lecture Hall B,2026-03-26,13:00,15:00,Lecture
+B002096,Lecture Hall B,2026-03-26,10:00,11:00,Workshop
+B002097,Smart Classroom 1,2026-03-26,17:00,19:00,Workshop
+B002098,Smart Classroom 1,2026-03-26,16:00,17:00,Workshop
+B002099,Smart Classroom 1,2026-03-26,10:00,12:00,Workshop
+B002100,Computer Lab 1,2026-03-26,09:00,11:00,Lab Session
+B002101,Computer Lab 1,2026-03-26,10:00,12:00,Practical
+B002102,Computer Lab 2,2026-03-26,09:00,11:00,Lab Session
+B002103,COMPUTER LAB 2,2026-03-26,15:00,17:00,Practical
+B002104,Computer Lab 2,2026-03-26,16:00,18:00,Lab Session
+B002105,Electronics Lab,2026-03-26,14:00,17:00,Practical
+B002106,Electronics Lab,2026-03-26,08:00,10:00,Practical
+B002107,Electronics Lab,2026-03-26,11:00,14:00,Practical
+B002108,Electronics Lab,2026-03-26,11:00,12:00,Lab Session
+B002109,Electronics  Lab,2026-03-26,13:00,15:00,Project Work
+B002110,Central Library,2026-03-26,14:00,15:00,Reading
+B002111,Central Library,2026-03-26,09:00,10:00,Group Study
+B002112,Digital Library,2026-03-26,09:00,10:00,Study
+B002113,Digital Library,2026-03-26,12:00,14:00,Study
+B002114,Digital Library,2026-03-26,08:00,09:00,Group Study
+B002115,Digital Library,2026-03-26,10:00,12:00,Reading
+B002116,Digital Library,2026-03-26,08:00,11:00,Reading
+B002117,Seminar Hall,2026-03-26,11:00,13:00,Seminar
+B002118,Cafeteria,2026-03-26,13:00,15:00,Club Meeting
+B002119,Cafeteria,2026-03-26,12:00,13:00,Club Meeting
+B002120,Auditorium,2026-03-26,09:00,10:00,Cultural Program
+B002121,Discussion Room,2026-03-26,13:00,15:00,Group Study
+B002122,Discussion Room,2026-03-26,08:00,09:00,Discussion
+B002123,Lecture Hall A,2026-03-27,10:00,11:00,Lecture
+B002124,Lecture Hall B,2026-03-27,09:00,10:00,Tutorial
+B002125,Smart Classroom 1,2026-03-27,08:00,10:00,Tutorial
+B002126,Smart Classroom 1,2026-03-27,16:00,17:00,Lecture
+B002127,Computer Lab 1,2026-03-27,13:00,14:00,Project Work
+B002128,Computer Lab 2,2026-03-27,15:00,16:00,Lab Session
+B002129,Computer Lab 2,2026-03-27,13:00,15:00,Practical
+B002130,COMPUTER LAB 2,2026-03-27,10:00,11:00,Project Work
+B002131,Computer Lab 2,2026-03-27,14:00,15:00,Lab Session
+B002132,Computer Lab 2,2026-03-27,12:00,14:00,Practical
+B002133,Computer Lab 2,2026-03-27,14:00,15:00,Project Work
+B002134,Computer Lab 2,2026-03-27,13:00,16:00,Project Work
+B002135,Computer Lab 2,2026-03-27,09:00,10:00,Practical
+B002136,Computer Lab 2,2026-03-27,12:00,13:00,Project Work
+B002137,Electronics Lab,2026-03-27,14:00,15:00,Lab Session
+B002138,Central Library,2026-03-27,09:00,10:00,Study
+B002139,Central Library,2026-03-27,16:00,17:00,Reading
+B002140,Central Library,2026-03-27,12:00,14:00,Reading
+B002141,Central Library,2026-03-27,16:00,17:00,Reading
+B002142,Digital Library,2026-03-27,08:00,10:00,Reading
+B002143,Digital Library,2026-03-27,10:00,12:00,Reading
+B002144,Digital Library,2026-03-27,12:00,13:00,Study
+B002145,Digital Library,2026-03-27,14:00,15:00,Group Study
+B002146,Digital Library,2026-03-27,11:00,13:00,Group Study
+B002147,Seminar Hall,2026-03-27,09:00,12:00,Seminar
+B002148,Seminar Hall,2026-03-27,09:00,10:00,Workshop
+B002149,Cafeteria,2026-03-27,09:00,10:00,Dining
+B002150,Cafeteria,2026-03-27,16:00,18:00,Dining
+B002151,Cafeteria,2026-03-27,15:00,18:00,Dining
+B002152,Lecture Hall A,2026-03-30,08:00,10:00,Workshop
+B002153,Lecture Hall A,2026-03-30,14:00,16:00,Lecture
+B002154,Lecture Hall A,2026-03-30,10:00,11:00,Tutorial
+B002155,Lecture Hall B,2026-03-30,08:00,09:00,Lecture
+B002156,Lecture Hall B,2026-03-30,10:00,12:00,Tutorial
+B002157,Smart Classroom 1,2026-03-30,08:00,09:00,Lecture
+B002158,Smart Classroom 1,2026-03-30,08:00,09:00,Workshop
+B002159,Smart Classroom 1,2026-03-30,10:00,12:00,Workshop
+B002160,Computer  Lab  1,2026-03-30,08:00,09:00,Project Work
+B002161,Computer Lab 1,2026-03-30,09:00,11:00,Practical
+B002162,Computer Lab 1,2026-03-30,13:00,15:00,Project Work
+B002163,Computer Lab 1,2026-03-30,10:00,11:00,Project Work
+B002164,Computer Lab 2,2026-03-30,08:00,09:00,Lab Session
+B002165,Computer Lab 2,2026-03-30,11:00,12:00,Practical
+B002166,Electronics Lab,2026-03-30,13:00,15:00,Practical
+B002167,Electronics Lab,2026-03-30,08:00,10:00,Lab Session
+B002168,Electronics Lab,2026-03-30,17:00,19:00,Project Work
+B002169,Central Library,2026-03-30,15:00,16:00,Group Study
+B002170,Central Library,2026-03-30,08:00,10:00,Reading
+B002171,Central Library,2026-03-30,13:00,14:00,Study
+B002172,Central Library,2026-03-30,09:00,10:00,Reading
+B002173,Central Library,2026-03-30,15:00,17:00,Group Study
+B002174,Central Library,2026-03-30,11:00,13:00,Reading
+B002175,Digital Library,2026-03-30,15:00,17:00,Group Study
+B002176,Digital Library,2026-03-30,11:00,12:00,Reading
+B002177,Digital Library,2026-03-30,13:00,15:00,Study
+B002178,Digital Library,2026-03-30,09:00,10:00,Study
+B002179,Seminar Hall,2026-03-30,13:00,15:00,Seminar
+B002180,Cafeteria,2026-03-30,10:00,11:00,Club Meeting
+B002181,Cafeteria,2026-03-30,12:00,14:00,Dining
+B002182,Auditorium,2026-03-30,10:00,11:00,Event
+B002183,Auditorium,2026-03-30,10:00,12:00,Presentation
+B002184,Discussion Room,2026-03-30,12:00,14:00,Group Study
+B002185,Lecture Hall A,2026-03-31,09:00,11:00,Lecture
+B002186,Lecture Hall A,2026-03-31,08:00,09:00,Lecture
+B002187,Lecture Hall A,2026-03-31,14:00,16:00,Lecture
+B002188,Lecture Hall B,2026-03-31,15:00,16:00,Tutorial
+B002189,Lecture Hall B,2026-03-31,15:00,16:00,Tutorial
+B002190,Smart Classroom 1,2026-03-31,09:00,10:00,Workshop
+B002191,Smart Classroom 1,2026-03-31,14:00,17:00,Tutorial
+B002192,Smart Classroom 1,2026-03-31,08:00,09:00,Workshop
+B002193,Smart Classroom 1,2026-03-31,09:00,11:00,Tutorial
+B002194,Computer Lab 1,2026-03-31,10:00,12:00,Lab Session
+B002195,Computer Lab 1,2026-03-31,09:00,12:00,Practical
+B002196,Computer Lab 1,2026-03-31,10:00,11:00,Project Work
+B002197,Computer Lab 1,2026-03-31,14:00,16:00,Practical
+B002198,Computer Lab 2,2026-03-31,10:00,11:00,Lab Session
+B002199,Computer Lab 2,2026-03-31,11:00,12:00,Lab Session
+B002200,Computer Lab 2,2026-03-31,17:00,19:00,Practical
+B002201,Computer Lab 2,2026-03-31,10:00,12:00,Project Work
+B002202,Electronics Lab,2026-03-31,10:00,12:00,
+B002203,Electronics Lab,2026-03-31,15:00,17:00,Lab Session
+B002204,Central Library,2026-03-31,12:00,13:00,Study
+B002205,Central Library,2026-03-31,13:00,14:00,Group Study
+B002206,Central Library,2026-03-31,15:00,17:00,Group Study
+B002207,Digital Library,2026-03-31,08:00,09:00,Group Study
+B002208,Digital Library,2026-03-31,14:00,15:00,Reading
+B002209,Digital Library,2026-03-31,17:00,18:00,Group Study
+B002210,Digital Library,2026-03-31,15:00,17:00,Group Study
+B002211,Digital Library,2026-03-31,13:00,14:00,Group Study
+B002212,Cafeteria,2026-03-31,10:00,12:00,Student Activity
+B002213,Cafeteria,2026-03-31,13:00,15:00,Dining
+B002214,Auditorium,2026-03-31,10:00,12:00,Cultural Program
+B002215,LECTURE HALL A,2026-04-01,13:00,15:00,Tutorial
+B002216,Lecture Hall A,2026-04-01,10:00,11:00,Tutorial
+B002217,Lecture Hall B,2026-04-01,08:00,09:00,Workshop
+B002218,Lecture Hall B,2026-04-01,08:00,10:00,Tutorial
+B002219,Smart Classroom 1,2026-04-01,13:00,14:00,Lecture
+B002220,Computer Lab 1,2026-04-01,14:00,16:00,Project Work
+B002221,Computer Lab 1,2026-04-01,09:00,10:00,Lab Session
+B002222,Computer Lab 1,2026-04-01,14:00,16:00,Practical
+B002223,Computer Lab 2,2026-04-01,15:00,18:00,Lab Session
+B002224,Computer Lab 2,2026-04-01,17:00,18:00,Project Work
+B002225,Electronics Lab,2026-04-01,11:00,13:00,Practical
+B002226,Central Library,2026-04-01,09:00,10:00,Reading
+B002227,Central Library,2026-04-01,11:00,12:00,Group Study
+B002228,CENTRAL LIBRARY,2026-04-01,16:00,18:00,Group Study
+B002229,Central Library,2026-04-01,16:00,18:00,Study
+B002230,Central Library,2026-04-01,11:00,12:00,Study
+B002231,Digital Library,2026-04-01,10:00,11:00,Group Study
+B002232,Digital Library,2026-04-01,10:00,11:00,Reading
+B002233,Seminar Hall,2026-04-01,15:00,16:00,Guest Lecture
+B002234,Seminar Hall,2026-04-01,15:00,16:00,Guest Lecture
+B002235,SEMINAR HALL,2026-04-01,13:00,15:00,Guest Lecture
+B002236,Cafeteria,2026-04-01,08:00,10:00,Club Meeting
+B002237,Cafeteria,2026-04-01,13:00,16:00,Club Meeting
+B002238,Cafeteria,2026-04-01,17:00,18:00,Dining
+B002239,Discussion Room,2026-04-01,15:00,16:00,Group Study
+B002240,Lecture Hall A,2026-04-02,11:00,12:00,Workshop
+B002241,Lecture Hall A,2026-04-02,14:00,16:00,Tutorial
+B002242,Lecture Hall A,2026-04-02,13:00,15:00,Tutorial
+B002243,Lecture Hall B,2026-04-02,14:00,16:00,Tutorial
+B002244,Lecture Hall B,2026-04-02,11:00,13:00,Lecture
+B002245,Lecture Hall B,2026-04-02,15:00,17:00,Workshop
+B002246,Lecture Hall B,2026-04-02,16:00,18:00,Tutorial
+B002247,Lecture Hall B,2026-04-02,11:00,13:00,Workshop
+B002248,Lecture Hall B,2026-04-02,10:00,11:00,Tutorial
+B002249,Lecture Hall B,2026-04-02,09:00,10:00,Tutorial
+B002250,Lecture Hall B,2026-04-02,15:00,16:00,Workshop
+B002251,Smart Classroom 1,2026-04-02,12:00,13:00,Lecture
+B002252,Smart Classroom 1,2026-04-02,10:00,11:00,Lecture
+B002253,Smart Classroom 1,2026-04-02,12:00,13:00,Workshop
+B002254,Smart Classroom 1,2026-04-02,16:00,17:00,Workshop
+B002255,Smart Classroom 1,2026-04-02,08:00,09:00,Tutorial
+B002256,Computer Lab 1,2026-04-02,09:00,10:00,Lab Session
+B002257,Computer Lab 1,2026-04-02,09:00,12:00,Project Work
+B002258,Computer Lab 2,2026-04-02,15:00,16:00,Project Work
+B002259,Computer Lab 2,2026-04-02,13:00,14:00,Project Work
+B002260,Computer Lab 2,2026-04-02,17:00,18:00,Practical
+B002261,Electronics Lab,2026-04-02,16:00,17:00,Practical
+B002262,Electronics Lab,2026-04-02,17:00,19:00,Practical
+B002263,Electronics  Lab,2026-04-02,10:00,11:00,Project Work
+B002264,Electronics Lab,2026-04-02,13:00,15:00,Project Work
+B002265,Central Library,2026-04-02,10:00,12:00,Group Study
+B002266,Central Library,2026-04-02,14:00,16:00,Study
+B002267,Central Library,2026-04-02,16:00,17:00,Study
+B002268,Central Library,2026-04-02,13:00,14:00,Study
+B002269,Central Library,2026-04-02,12:00,13:00,Study
+B002270,Digital Library,2026-04-02,14:00,16:00,Reading
+B002271,Digital Library,2026-04-02,11:00,12:00,Group Study
+B002272,Digital Library,2026-04-02,13:00,15:00,Group Study
+B002273,Digital Library,2026-04-02,08:00,10:00,Group Study
+B002274,Digital Library,2026-04-02,17:00,18:00,Reading
+B002275,Digital Library,2026-04-02,15:00,16:00,Study
+B002276,Seminar Hall,2026-04-02,09:00,10:00,Workshop
+B002277,Cafeteria,2026-04-02,12:00,13:00,Student Activity
+B002278,Cafeteria,2026-04-02,15:00,17:00,Club Meeting
+B002279,Discussion Room,2026-04-02,10:00,11:00,Project Work
+B002280,Discussion Room,2026-04-02,14:00,15:00,Project Work
+B002281,Discussion Room,2026-04-02,11:00,13:00,Project Work
+B002282,Discussion Room,2026-04-02,11:00,13:00,Project Work
+B002283,Lecture Hall A,2026-04-03,15:00,16:00,Lecture
+B002284,Lecture Hall A,2026-04-03,15:00,17:00,Workshop
+B002285,Lecture Hall A,2026-04-03,14:00,16:00,Lecture
+B002286,Lecture Hall A,2026-04-03,13:00,15:00,Workshop
+B002287,Lecture Hall B,2026-04-03,14:00,15:00,Tutorial
+B002288,Smart Classroom 1,2026-04-03,15:00,17:00,Tutorial
+B002289,Smart Classroom 1,2026-04-03,08:00,10:00,Tutorial
+B002290,Smart Classroom 1,2026-04-03,08:00,09:00,Workshop
+B002291,Smart Classroom 1,2026-04-03,10:00,12:00,Tutorial
+B002292,Computer Lab 1,2026-04-03,11:00,13:00,Practical
+B002293,Computer Lab 1,2026-04-03,10:00,12:00,Practical
+B002294,COMPUTER LAB 1,2026-04-03,13:00,14:00,Practical
+B002295,Computer Lab 2,2026-04-03,09:00,11:00,Project Work
+B002296,Electronics Lab,2026-04-03,09:00,10:00,Practical
+B002297,Electronics Lab,2026-04-03,15:00,17:00,Lab Session
+B002298,Central Library,2026-04-03,15:00,16:00,Reading
+B002299,Central Library,2026-04-03,12:00,13:00,Group Study
+B002300,Central Library,2026-04-03,17:00,19:00,Reading
+B002301,Central Library,2026-04-03,14:00,16:00,Study
+B002302,Central Library,2026-04-03,08:00,09:00,Group Study
+B002303,Digital Library,2026-04-03,16:00,18:00,Group Study
+B002304,Digital Library,2026-04-03,17:00,19:00,Reading
+B002305,Digital Library,2026-04-03,12:00,14:00,Group Study
+B002306,Seminar Hall,2026-04-03,12:00,13:00,Seminar
+B002307,Cafeteria,2026-04-03,08:00,10:00,Club Meeting
+B002308,Discussion Room,2026-04-03,10:00,12:00,Project Work
+B002309,Discussion Room,2026-04-03,09:00,10:00,Discussion
+B002310,Discussion Room,2026-04-03,09:00,10:00,Project Work
+B001645,Digital Library,2026-03-06,08:00,10:00,Study
+B000510,Lecture Hall B,2026-01-23,10:00,11:00,Lecture
+B001411,Lecture Hall B,2026-02-26,16:00,18:00,Tutorial
+B000045,Central Library,2026-01-06,15:00,17:00,Study
+B001585,Computer Lab 2,2026-03-05,09:00,11:00,Practical
+B001287,Lecture Hall B,2026-02-23,09:00,10:00,Lecture
+B001337,Computer Lab 1,2026-02-24,14:00,15:00,Project Work
+B002024,Lecture Hall B,2026-03-24,08:00,10:00,Tutorial
+B002023,Lecture Hall B,2026-03-24,14:00,15:00,Tutorial
+B001407,Lecture Hall A,2026-02-26,12:00,14:00,Tutorial
+B001577,Lecture Hall B,2026-03-05,09:00,10:00,Tutorial
+B000472,Smart Classroom 1,2026-01-22,13:00,14:00,Tutorial
+B001413,Smart Classroom 1,2026-02-26,16:00,19:00,Tutorial
+B000209,Computer Lab 1,2026-01-13,09:00,11:00,Project Work
+B001243,Seminar Hall,2026-02-19,17:00,18:00,Seminar
+B000508,Lecture Hall A,2026-01-23,08:00,09:00,Tutorial
+B002038,Central Library,2026-03-24,14:00,16:00,Reading
+B000283,Smart Classroom 1,2026-01-15,14:00,15:00,Workshop
+B000820,Electronics Lab,2026-02-05,13:00,14:00,Practical
+B000483,Electronics Lab,2026-01-22,11:00,12:00,Project Work
+B002221,Computer Lab 1,2026-04-01,09:00,10:00,Lab Session
+B000942,Smart Classroom 1,2026-02-10,14:00,16:00,Lecture
+B001963,COMPUTER LAB 1,2026-03-20,12:00,13:00,Lab Session
+B000621,Central Library,2026-01-28,10:00,11:00,Reading
+B000931,Lecture Hall A,2026-02-10,10:00,12:00,Tutorial
+B001392,Electronics Lab,2026-02-25,11:00,12:00,Lab Session
+B000434,Lecture Hall A,2026-01-21,10:00,12:00,Workshop

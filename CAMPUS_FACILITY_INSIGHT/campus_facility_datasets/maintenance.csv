@@ -1,0 +1,62 @@
+maintenance_id,facility,issue,downtime_hours,date
+M00001,Lecture Hall A,Projector failure,2.0,2026-01-30
+M00002,Lecture Hall A,Projector failure,0.0,2026-01-22
+M00003,Lecture Hall A,Air conditioning,6.0,2026-03-03
+M00004,Lecture Hall A,Projector failure,24.0,2026-03-02
+M00005,Lecture Hall A,Network issue,12.0,2026-04-02
+M00006,LECTURE HALL A,Network issue,4.0,2026-03-31
+M00007,Lecture Hall A,Furniture repair,4.0,2026-01-13
+M00008,Lecture Hall B,Network issue,8.0,2026-03-15
+M00009,Lecture Hall B,Air conditioning,4.0,2026-02-12
+M00010,Smart Classroom 1,,8.0,2026-04-04
+M00011,Smart Classroom 1,Network issue,24.0,2026-01-27
+M00012,Smart Classroom 1,Air conditioning,2.0,2026-03-11
+M00013,Smart Classroom 1,Air conditioning,24.0,2026-01-20
+M00014,Smart Classroom 1,Air conditioning,4.0,2026-01-22
+M00015,Smart Classroom 1,Projector failure,12.0,2026-03-09
+M00016,Computer Lab 1,Furniture repair,2.0,2026-02-20
+M00017,Computer Lab 1,Network issue,6.0,2026-03-19
+M00018,Computer Lab 1,Furniture repair,4.0,2026-03-05
+M00019,Computer Lab 1,,6.0,2026-01-21
+M00020,Computer Lab 1,Projector failure,4.0,2026-01-16
+M00021,Computer Lab 1,Electrical fault,2.0,2026-02-13
+M00022,Computer Lab 2,Furniture repair,4.0,2026-03-07
+M00023,Computer Lab 2,Electrical fault,24.0,2026-02-26
+M00024,Computer Lab 2,,2.0,2026-03-19
+M00025,Computer Lab 2,Network issue,,2026-01-21
+M00026,Computer Lab 2,Projector failure,12.0,2026-03-28
+M00027,COMPUTER LAB 2,Electrical fault,36.0,2026-03-03
+M00028,Electronics Lab,Furniture repair,4.0,2026-04-02
+M00029,Electronics Lab,Air conditioning,6.0,2026-02-18
+M00030,Electronics Lab,Cleaning,4.0,2026-03-16
+M00031,Electronics Lab,Air conditioning,8.0,2026-03-21
+M00032,Central Library,Electrical fault,24.0,2026-01-21
+M00033,Central Library,Projector failure,4.0,2026-03-10
+M00034,Central Library,Furniture repair,4.0,2026-01-20
+M00035,Central Library,Network issue,4.0,2026-01-24
+M00036,Central Library,Air conditioning,,2026-01-26
+M00037,Digital Library,Cleaning,2.0,2026-02-15
+M00038,Digital Library,Network issue,2.0,2026-02-02
+M00039,Digital Library,Network issue,2.0,2026-03-12
+M00040,Digital Library,Network issue,2.0,2026-01-15
+M00041,Digital Library,Cleaning,,2026-01-30
+M00042,Digital Library,,6.0,2026-03-16
+M00043,Seminar Hall,Cleaning,24.0,2026-01-21
+M00044,Seminar Hall,Furniture repair,4.0,2026-02-12
+M00045,Seminar Hall,Projector failure,8.0,2026-03-14
+M00046,Seminar Hall,Cleaning,6.0,2026-03-10
+M00047,Seminar Hall,Furniture repair,8.0,2026-01-26
+M00048,Seminar Hall,,,2026-03-20
+M00049,Cafeteria,Cleaning,2.0,2026-01-26
+M00050,Cafeteria,Cleaning,2.0,2026-03-25
+M00051,Cafeteria,Network issue,8.0,2026-03-23
+M00052,Cafeteria,Projector failure,8.0,2026-03-18
+M00053,Cafeteria,Projector failure,4.0,2026-01-08
+M00054,Cafeteria,Cleaning,4.0,2026-01-10
+M00055,Auditorium,Network issue,6.0,2026-03-19
+M00056,Auditorium,Air conditioning,4.0,2026-03-29
+M00057,Auditorium,Electrical fault,4.0,2026-03-19
+M00058,Auditorium,Cleaning,,2026-03-25
+M00059,Auditorium,Electrical fault,,2026-01-08
+M00060,Discussion Room,Furniture repair,6.0,2026-03-26
+M00061,Discussion Room,Cleaning,6.0,2026-02-11
